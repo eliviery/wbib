@@ -13,9 +13,9 @@
       "p2": {
         "thumb": "Autoria",
         "text": [
-          "Genêsis é primeiro livro de uma obra mais ampla, os primeiros cinco livros do Antigo Testamento, denominados Pentateuco, cuja autoria tem sido tradicionalmente atribuída a Moisés. Essa posição é apoiada pelas seguintes considerações: (1) o próprio Pentateuco afirma a autoria mosaica (Êx 17:14; 24:4,7; 34:27; Nm 33:1-2; Dt 31:9); (2) outros livros do Antigo Testamento testificam da autoria  mosaica do Pentateuco (Js 1:7-8; 8:32,34; 22:5; 1 Rs 2:3; 2 Rs 14:6; 21:8; Ed 6:18; Dn 9:11-13; Ml 4:4); (3) o NOvo Testamento igualmente  afirma a autoria mosaica (Mt 19:8; Mc 12:26; Jo 5:46-47; 7:19; Rm 10:5); (4) detalhes que somente uma testemunha ocular dos fatos saberia ou poderia incluir indicam que o autor participou dos acontecimentos, não sendo um redator que tivesse vivido séculos depois (Êx 15:27; Nm 2:1-31; 11:7-8); (5) as informações de que o autor dispunha sobre nomes, palavras, costumes e geografia egípicios seriam extremamente difíceis  de obter para um autor ou redator que tivesse vivido em Canaã, séculos depois da época de Moisés (Gn 13:10; 16:1-3; 33:18; 41:43 cf. At 7:22).",
+          "Genêsis é primeiro livro de uma obra mais ampla, os primeiros cinco livros do Antigo Testamento, denominados Pentateuco, cuja autoria tem sido tradicionalmente atribuída a Moisés. Essa posição é apoiada pelas seguintes considerações: (1) o próprio Pentateuco afirma a autoria mosaica (Êx 17:14; 24:4,7; 34:27; Nm 33:1-2; Dt 31:9); (2) outros livros do Antigo Testamento testificam da autoria  mosaica do Pentateuco (Js 1:7-8; 8:32,34; 22:5; 1 Rs 2:3; 2 Rs 14:6; 21:8; Ed 6:18; Dn 9:11-13; Ml 4:4); (3) o Novo Testamento igualmente  afirma a autoria mosaica (Mt 19:8; Mc 12:26; Jo 5:46-47; 7:19; Rm 10:5); (4) detalhes que somente uma testemunha ocular dos fatos saberia ou poderia incluir indicam que o autor participou dos acontecimentos, não sendo um redator que tivesse vivido séculos depois (Êx 15:27; Nm 2:1-31; 11:7-8); (5) as informações de que o autor dispunha sobre nomes, palavras, costumes e geografia egípicios seriam extremamente difíceis  de obter para um autor ou redator que tivesse vivido em Canaã, séculos depois da época de Moisés (Gn 13:10; 16:1-3; 33:18; 41:43 cf. At 7:22).",
           "A posição crítica sobre a autoria do Pentateuco passou por vários estágios. A princípio, Gênesis foi dividido em dois documentos com base nos dois nomes diferentes empregados em relação a Deus, Elohim e Yaweh. Por volta de 1875, Julius Wellhausen defendeu a tese de quatro  documentos a partir  dos quais o Pentateuco teria sido compilado. Esses documentos seriam: J, redigido por volta de 850 a.C. por um escritor desconhecido em Judá; E, redigido por volta de 750 a.C. por outro escritor desconhecido no reino do Norte , Israel; D, composto pelo sumo sacerdote ao tempo do reavivamento comandado pelo rei Josias, em 621 a.C.; e P, composto no período que vai de Ezequiel a Esdras (600-450 a.C.). Descobertas arqueológicas, todavia, muitas delas posteiriores à Primeira Guerra Mundial, têm demosntrado a exatidão histórica do Pentateucoe trouxeram a lume costumes praticados no segundo milênio a.C. e abandonados no primeiro milênio. Como poderia, portanto, um autorm conhecer tais costumes (e.g., a porção dobrada para o filho primogênito, a venda do direito de primogenitura, a validade de um testamento oral; cf. Gn 48:17-20) a não ser que tivesse vivido no período histórico em que eles ocorrerasm?",
-          "Indubitavelmente, MOisés possuía registros escritos e teve acesso a tradições orais sobre a história primeva, os quais usou sob a direção do Espírito  Santo para escrever os acontecimentos anteriores à sua vida. Naturalmente uma outra pessoa escreveu o registro de sua morte(Dt 34)."
+          "Indubitavelmente, Moisés possuía registros escritos e teve acesso a tradições orais sobre a história primeva, os quais usou sob a direção do Espírito  Santo para escrever os acontecimentos anteriores à sua vida. Naturalmente uma outra pessoa escreveu o registro de sua morte(Dt 34)."
         ]
       },
       "p3": {
@@ -228,12 +228,24 @@
           ["Mesopotâmia", "1361-1353", "Otniel", "1353-1313", "Jz 3:7-11"],
           ["Moabe", "1313-1295", "Eúde", "1295-1215", "Jz 3:12-30"],
           ["Filístia", "?", "Sangar", "?", "Jz 3:31"],
-          ["Canaã", "1215-1195", "Débora e Baraque", "1195-1155", "Jz 4:1 — Jz 5:31"],
+          [
+            "Canaã",
+            "1215-1195",
+            "Débora e Baraque",
+            "1195-1155",
+            "Jz 4:1 — Jz 5:31"
+          ],
           ["Midiã", "1155-1148", "Gideão", "1148-1108", "Jz 6:1 — Jz 8:28"],
           ["Abimeleque", "1108-1105", "", "", "Jz 9:1-57"],
           ["Amom", "1105", "Jefté", "1105-1099", "Jz 10:6 — Jz 12:7"],
-          ["Filístia", "1099-1059", "Sansão", "1085-1065", "Jz 13:1 — Jz 16:31"],
-          ["","","","",""]
+          [
+            "Filístia",
+            "1099-1059",
+            "Sansão",
+            "1085-1065",
+            "Jz 13:1 — Jz 16:31"
+          ],
+          ["", "", "", "", ""]
         ]
       }
     }
@@ -245,22 +257,26 @@
     "content": {
       "p1": {
         "thumb": "Autoria",
-        "text": ["O autor é desconhecido, embora alguns sugiram o nome de Samuel."
+        "text": [
+          "O autor é desconhecido, embora alguns sugiram o nome de Samuel."
         ]
       },
       "p2": {
         "thumb": "Data",
-        "text": ["Embora os acontecimentos do livro datem do período dos juízes (talvez a última parte do século XII a.C.), o livro em si não foi escrito senão muitos anos depois. (Observe-se que o autor se sentiu obrigado a explicar costumes já não praticados, Rt 4:6-8.) Os últimos versículos do livro apresentam a descendência de Rute apenas até o rei Davi, sugerindo fortemente que o livro foi escrito durante o seu reino. Se tivesse sido escrito mais tarde, seria de se esperar que a genealogia se estendesse pelo menos até Salomão."
+        "text": [
+          "Embora os acontecimentos do livro datem do período dos juízes (talvez a última parte do século XII a.C.), o livro em si não foi escrito senão muitos anos depois. (Observe-se que o autor se sentiu obrigado a explicar costumes já não praticados, Rt 4:6-8.) Os últimos versículos do livro apresentam a descendência de Rute apenas até o rei Davi, sugerindo fortemente que o livro foi escrito durante o seu reino. Se tivesse sido escrito mais tarde, seria de se esperar que a genealogia se estendesse pelo menos até Salomão."
         ]
       },
       "p3": {
         "thumb": "Contexto Histórico",
-        "text": ["O livro oferece um vislumbre das vidas de pessoas comuns, ainda que tementes a Deus, durante o turbulento período dos juízes (veja a Introdução ao Livro de Juízes). O livro é um oásis de fidelidade numa era marcada pela idolatria e infidelidade."
+        "text": [
+          "O livro oferece um vislumbre das vidas de pessoas comuns, ainda que tementes a Deus, durante o turbulento período dos juízes (veja a Introdução ao Livro de Juízes). O livro é um oásis de fidelidade numa era marcada pela idolatria e infidelidade."
         ]
       },
       "p4": {
         "thumb": "Temas",
-        "text": ["(1) A própria Rute demonstra que os gentios podiam crer no verdadeiro Deus. (2) O livro fornece uma genealogia parcial de Davi, e mostra que havia sangue gentio na linhagem de Cristo, Aquele que se tornou o Salvador de toda a humanidade. (3) Boaz, como resgatador, fornece-nos um belo tipo de Cristo, na medida em que (a) era um parente de sangue (Rm 1:3; Hb 2:14); (b) tinha os recursos com que comprar a herança que fora perdida (1Pe 1:18-19); (c) estava disposto a resgatar (Hb 10:7). (4) O livro é um exemplo tocante da maravilhosa soberania de Deus exercida em Seu cuidado por Seu povo (cf. Rt 2:12)."
+        "text": [
+          "(1) A própria Rute demonstra que os gentios podiam crer no verdadeiro Deus. (2) O livro fornece uma genealogia parcial de Davi, e mostra que havia sangue gentio na linhagem de Cristo, Aquele que se tornou o Salvador de toda a humanidade. (3) Boaz, como resgatador, fornece-nos um belo tipo de Cristo, na medida em que (a) era um parente de sangue (Rm 1:3; Hb 2:14); (b) tinha os recursos com que comprar a herança que fora perdida (1Pe 1:18-19); (c) estava disposto a resgatar (Hb 10:7). (4) O livro é um exemplo tocante da maravilhosa soberania de Deus exercida em Seu cuidado por Seu povo (cf. Rt 2:12)."
         ]
       }
     }
@@ -272,93 +288,143 @@
     "content": {
       "p1": {
         "thumb": "Autores",
-        "text": ["Embora os dois livros de Samuel recebam seu nome por ser ele a figura principal dos primeiros capítulos, Samuel não poderia ter escrito mais do que uma parte de 1 Samuel, já que sua morte é registrada no capítulo 25. O fato de ter ele escrito um livro fica comprovado em 1Sm 10:25. 1Cr 29:29 indica que Natã e Gade também escreveram sobre os acontecimentos registrados em Samuel."
+        "text": [
+          "Embora os dois livros de Samuel recebam seu nome por ser ele a figura principal dos primeiros capítulos, Samuel não poderia ter escrito mais do que uma parte de 1 Samuel, já que sua morte é registrada no capítulo 25. O fato de ter ele escrito um livro fica comprovado em 1Sm 10:25. 1Cr 29:29 indica que Natã e Gade também escreveram sobre os acontecimentos registrados em Samuel."
         ]
       },
       "p2": {
         "thumb": "Contexto Histórico",
-        "text": ["Samuel emergiu como o último juiz do período dos juízes, que durou cerca de 350 anos. O livro cobre o período de aproximadamente 115 anos, da infância de Samuel ao início do reinado de Davi. Surgindo no cenário civil-religioso de Israel num dos períodos mais negros da história israelita, Samuel convocou o povo a um reavivamento do verdadeiro culto a Javé (o SENHOR; At 3:24). Ele foi também um estabelecedor de reis, ungindo tanto a Saul quanto a Davi (1Sm 10:1 e 1Sm 16:13). Assim, o livro de 1 Samuel fornece um elo entre os juízes e a monarquia."
+        "text": [
+          "Samuel emergiu como o último juiz do período dos juízes, que durou cerca de 350 anos. O livro cobre o período de aproximadamente 115 anos, da infância de Samuel ao início do reinado de Davi. Surgindo no cenário civil-religioso de Israel num dos períodos mais negros da história israelita, Samuel convocou o povo a um reavivamento do verdadeiro culto a Javé (o SENHOR; At 3:24). Ele foi também um estabelecedor de reis, ungindo tanto a Saul quanto a Davi (1Sm 10:1 e 1Sm 16:13). Assim, o livro de 1 Samuel fornece um elo entre os juízes e a monarquia."
         ]
       },
       "p3": {
         "thumb": "Conteúdo",
-        "text": ["Primeiro Samuel focaliza três personagens principais: Samuel, Saul e Davi (2 Samuel focaliza exclusivamente Davi). A principal lição do livro tem a ver com os efeitos do pecado e da santidade em relaão ao povo e seus líderes. Histórias bem conhecidas no livro incluem a de Davi e Golias (1Sm 17), Davi e Jônatas (1Sm 18), e Saul e a feiticeira de En-Dor (1Sm 28)."
+        "text": [
+          "Primeiro Samuel focaliza três personagens principais: Samuel, Saul e Davi (2 Samuel focaliza exclusivamente Davi). A principal lição do livro tem a ver com os efeitos do pecado e da santidade em relaão ao povo e seus líderes. Histórias bem conhecidas no livro incluem a de Davi e Golias (1Sm 17), Davi e Jônatas (1Sm 18), e Saul e a feiticeira de En-Dor (1Sm 28)."
         ]
       }
     }
   },
   "2sm": {
     "name": "2 Samuel",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "De 930 a.C. em diante",
+    "author": "Samuel e outros",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Relação com 1 Samuel",
+        "text": [
+          "Na Bíblia Hebraica, 1 e 2 Samuel formam um único livro. Com respeito as questões de autoria, data e contexto histórico, consultar a Introduçaõ a 1 Samuel."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Conteúdo",
+        "text": [
+          "Primeiro Samuel termina com a morte do primeiro rei de ISrael, Saul. Segundo Samuel registra a história do reinado de Davi, incluindo seu estabelecimento dos centros político e religioso da nação em Jerusalém, o ínicio da dinastia davídica, as grandes vitórias militares de Davi, seu vergonhoso pecado com Bate-Seba e seu erro ao recensear o povo. 2 Samuel 7:4-14 registra a importante (e ainda a ser totalmente cumprida) aliança feita por Deus com Davi e seus descendentes."
+        ]
       }
     }
   },
   "1rs": {
     "name": "1 Reis",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "c. 550 a.C.",
+    "author": "Jeremias",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Título",
+        "text": [
+          "Composto originalmente como um único livro, 1 e 2 Reis têm um título apropriado ao seu conteúdo que retrata a história dos reis de Israel e Judá, desde Salomão até o cativeiro babilônico. Primeiro Reis termina abruptamente no começo do reinado de Acazias em 853 a.C."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Autor",
+        "text": [
+          "A tradição judaica atribui o livro ao profeta  Jeremias. É bem evidente que o autor se valeu de fontes históricas para a compilação do livro (1 Rs 11:41; 1 Rs 14:19, 29), e o último capítulo de 2 Reis deve ter sido escrito por alguém que viveu na Babilônia e não no Egito, onde Jeremias passou seus últimos dias."
+        ]
+      },
+      "p3": {
+        "thumb": "Propósito",
+        "text": [
+          "O próposito do livro não é apenas registrar a história dos reis, mas demonstrar que o sucesso de qualquer rei (e da nação como um todo) dependia da medida de sua fidelidade à lei de Deus. O fracasso resultou em declínio e cativeiro."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Passagens importantes em 1 Reis incluem a descrição da grande sabedoria de Salomão (caps. 1 Rs 3 — 1 Rs 4), a dedicação do templo construído por Salomão (1 Rs cap. 8), a visita da rainha de Sabá (1 Rs cap. 10) e o ministério de Elias (particularmente sua confrontação com os profetas de Baal no monte Carmelo, 1 Rs cap. 18)."
+        ]
       }
     }
   },
+
   "2rs": {
     "name": "2 Reis",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "c. 550 a.C.",
+    "author": "Jeremias",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Título, Autor e Data",
+        "text": [
+          "Uma vez que 1 e 2 Reis formavam originalmente um único livro, consulte a Introdução a 1 Reis para um exame destes assuntos."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Conteúdo",
+        "text": [
+          "Continuando onde 1 Reis terminara (com Acazias), 2 Reis descreve o declínio e o cativeiro tanto de Israel quanto de Judá. Israel suportou uma sucessão de maus reis durante 130 anos, até o cativeiro assírio. A história de Judá, culminando com o cativeiro babilônico, é contada com poucos detalhes. O livro também registra o ministério de Eliseu, marcado por milagres. Passagens bem conhecidas incluem a ressurreição do filho da sunamita (2 Rs cap. 4), a cura de Naamã, o general sírio leproso (2 Rs cap. 5), a morte de Jezabel (2 Rs cap. 9) e os reavivamentos nos reinados de Ezequias (2 Rs cap. 18) e Josias (2 Rs cap. 23).",
+          "Durante este período, Amós e Oséias profetizaram em Israel, enquanto Obadias, Joel, Isaías, Miquéias, Naum, Habacuque, Sofonias e Jeremias ministraram em Judá."
+        ]
       }
     }
   },
   "1cr": {
     "name": "1 Crônicas",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "450-425 a.C.",
+    "author": "Esdras",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Título",
+        "text": [
+          "Originalmente formava um só livro com 2 Crônicas (até 180 a.C.), cujo título hebraico significa \"as palavras (negócios) dos dias\", i.e., os anais de Israel, de Adão ao cativeiro banilônico e o decreto de Ciro permitindo aos exilados judeus voltar à sua terra. Num certo sentido é \"uma miniatura do Antigo Testamento\", registrando de forma resumida o fluxo da história do Antigo Testamento."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Autoria",
+        "text": [
+          "Embora não especificado por nome no livro, Esdras tem sido tradicionalmente apontado como seu autor. Inquestionavelmente, ele utilizou fontes escritas para escrever o livro, incluindo-se nestas os registros proféticos de Samuel (1 Cr 32:32) e outros (2 Cr 9:29; 12:15; 20:34; 33:19), mas em particular uma fonte chamada \"o livro dos reis de Judá e Israel\" (2 Cr 16:11; 25:26). Não se trata, todavia do livro canônico de 1 e 2 Reis, mas de um relato palaciano mais antigo."
+        ]
+      },
+      "p3": {
+        "thumb": "Propósito",
+        "text": [
+          "Esdras, que conduziu um grupo de exilados de volta à Palestina em 458 a.C., tinha a preocupação de estabelecer um alicerce espiritual sólido para o povo. Para alcançar tal objetivo, ele evidentemente compilou o livro de Crônicas para enfatizar a importância da pureza religiosa e racial, o lugar apropriadamente da Lei, do templo e do sacerdócio. Assim, ele omite as atividades detalhadas dos reis e profetas, enfatizando a rica herança do povo e a beção de seu relacioanemtno pactual com Deus."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Primeiro Crônicas é um livro saturado de genealogias, com um foco especial no reinado de Davi. Porções importantes incluem  a declaração da grande aliança com Davi (1 Cr 17:11-14) e a magnífica oração de louvor pronunciada por Davi (1 Cr 29:10-19)."
+        ]
       }
     }
   },
   "2cr": {
     "name": "2 Crônicas",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "450-425 a.C.",
+    "author": "Esdras",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Título, Autoria e Propósito",
+        "text": [
+          "Uma vez que 1 e 2 Crônicas eram originalmente, um só livro, consultar a Introdução a 1 Crônicas para o tratamento destes assuntos."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Conteúdo",
+        "text": [
+          "Começando onde 1 Crônicas parou, 2 Crônicas registra a história do reinado de Salomão (971-931 a.C.) e de todos os reis de Judá, desde Roboão (931 a.C.) até Zedequias (586 a.C.). Assim, o livro cobre o mesmo período em 1 e 2 Reis, embora 2 Crônicas focalize exclusivamente os reis de Judá, excluindo os reis de Israel. A desobediência à Lei mosaica foi a razão do cativeiro babilônico. O livro termina com uma breve menção ao decreto de Ciro, promulgado em 539 a.C., pelo qual os judeus receberam permissão de voltar à Judéia e construir seu templo.",
+          "Passagens significativas incluem a oração de Salomão pedindo sabedoria (2 Cr 1:7-12), a dedicação do magnífico templo por ele construído (2 Cr caps. 5 - 2 Cr 7), a visita da rainha de Sabá (2 Cr 9:1-12) e a predição da duração do cativeiro ( 2 Cr 36:20-21). Versículos favoritos neste livro são 2 Cr 7:14 e 2 Cr 16:9."
+        ]
       }
     }
   },
@@ -384,305 +450,619 @@
         "text": [
           "O livro registra o cumprimento da promessa divina de restaurar Israel à sua terra depois dos setenta anos de cativeiro na Babilônia (Jr 25:11). Isso se deu com a ajuda de três monarcas persas (Ciro, Dario e Artaxerxes) e também de líderes judeus como Zorobabel, Josué, Ageu, Zacarias e Esdras. Ciro conquistou a Babilônia em outubro de 539 a.C. e, seguindo sua política de estimular os povos subjugados a retornarem às suas terras de origem, promulgou em 538 a.C. um decreto autorizando os judeus a fazerem o mesmo (veja a introdução ao livro de Zacarias). Cerca de cinqüenta mil pessoas retornaram sob a liderança de Zorobabel e lançaram os alicerces do templo, que, no entanto, só viria a ser concluído em 515 a.C., durante o reinado de Dario. Os capítulos Ed 1 — Ed 6 descrevem estes acontecimentos. Os capítulos Ed 7 — Ed 10 tratam do retorno de Esdras a Jerusalém, sob os auspícios do rei Artaxerxes, afim de ajudar a promover um reavivamento espiritual no meio de seu povo.",
           "Os reis persas envolvidos neste período (em relação a Esdras e a outras porções do AT) são os seguintes:",
-          {
-            "table": [
-              [
-                "Rei",
-                "Data",
-                "Capítulos Correspondentes em Esdras",
-                "Relação com outros livros no AT"
-              ],
-              [
-                "Ciro",
-                "559-530",
-                "Ed 1 — Ed 6 (embora não haja menção de Cambises e Smerdis)",
-                "Ageu (520)"
-              ],
-              ["Cambises", "530-522", "", "Zacarias (520-518)"],
-              ["Smerdis", "522", "", ""],
-              ["Dario I", "521-486", "", ""],
-              ["Xerxes I (Assuero)", "486-465", "Ed 4:6", "Ester (465)"],
-              [
-                "Artaxerxes I",
-                "464-424",
-                "Ed 4:7-23 e Ed 7 — Ed 10",
-                "Malaquias (450-400)"
-              ],
-              ["Dario II", "423-404", "", "Neemias (445-425)"],
-              ["","","",""]
-            ]
-          }
+          [
+            [
+              "Rei",
+              "Data",
+              "Capítulos Correspondentes em Esdras",
+              "Relação com outros livros no AT"
+            ],
+            [
+              "Ciro",
+              "559-530",
+              "Ed 1 — Ed 6 (embora não haja menção de Cambises e Smerdis)",
+              "Ageu (520)"
+            ],
+            ["Cambises", "530-522", "", "Zacarias (520-518)"],
+            ["Smerdis", "522", "", ""],
+            ["Dario I", "521-486", "", ""],
+            ["Xerxes I (Assuero)", "486-465", "Ed 4:6", "Ester (465)"],
+            [
+              "Artaxerxes I",
+              "464-424",
+              "Ed 4:7-23 e Ed 7 — Ed 10",
+              "Malaquias (450-400)"
+            ],
+            ["Dario II", "423-404", "", "Neemias (445-425)"],
+            ["", "", "", ""]
+          ]
         ]
       }
     }
   },
   "ne": {
     "name": "Neemias",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "445-425 a.C.",
+    "author": "Neemias",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "O Homem Neemias",
+        "text": [
+          "Como copeiro do rei Artaxerxes I, a posição de Neemias era de grande responsabilidade (comprovar que o vinho bebido pelo rei jamais estivesse envenenado) e de muita influência (já que um servo que desfrutava de tanta confiança frequentemente se tornava um conselheiro bem íntimo). Ao ouvir que as muralhas de Jerusalém ainda não haviam sido reconstruídas, e recebendo permissão do rei para ir a Jerusalém e corrigir a situação, demonstrou qualidades ímpares de liderança  e organização. Em 52 dias o trabalho de reconstrução foi terminado. Como governador de Judá, Neemias demonstrou humildade, integridade, patriotismo, energia, piedade e altruísmo. Depois de doze anos no cargo, ele retornou por pouco tempo à corte de Artaxexes (Ne 1:1; 13:6) e de lá voltou a Judá, onde exortou seu povo ao arrependimento.",
+          "Tão vívido e franco é o relato que muito do material contido no livro provém do que deve ter sido o diário pessoal de Neemias. Quanto à relação entre este livro e Esdras, veja a Introdução a Esdras."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Contexto Histórico",
+        "text": [
+          "Consulte a Introdução a Esdras. Os papiros de Elefantina, descobertos em 1903, confirmam a historicidade do livro de Neemias, mencionando Sambalá (Ne 2:19) e Joanã (Ne 6:18; 12:23). Estas fontes também indicam que Neemias deixou de ser governador de Judá antes de 408 a.C."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "O livro completa a história da restauração do remanescente que voltara do exílio em Babilônia, restauração esta começada sob a liderança de Esdras. Marca também o ínicio das \"setenta semanas\" de Daniel, e fornece o contexto histórico para a profecia de Malaquias."
+        ]
       }
     }
   },
   "et": {
     "name": "Ester",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "c. 465 a.C.",
+    "author": "Incerto",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Autoria",
+        "text": [
+          "Embora seu nome nos seja desconhecido, o autor deste livro era evidentemente um judeu (o nacionalismo judeu permeia o livro), pessoalmente familiarizado com o reino de Assuero e como o palácio em Susã. O livro deve ter sido escrito pouco depois do final do reino de Assuero, já que a administração é nele mencionada como algo passado. (Et 10:2-3)."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Contexto Histórico",
+        "text": [
+          "Os acontecimentos deste livro cobrem um período de 10 anos (483-473) do reinado de Xerxes I (486-465). A forma hebraica de seu nome é Ahaswerosh, equivalente ao persa Khshayarsha e ao grego Xerxes. Os acontecimentos transcorrem entre o sexto e o sétimo capítulo do livro de Esdras (veja a Introdução a Esdras para obter informações históricas adicionais)."
+        ]
+      },
+      "p3": {
+        "thumb": "Tema",
+        "text": [
+          "Embora o nome de Deus são seja mencionado, Sua soberania e providência são evidentes em toda a narrativa. A rejeição de Vasti, a posição de rainha obtida por Ester, a dívida de gratidão de Xerxes para com Mordecai descoberta durante  uma noite de insônia, e a maravilhosa libertação dos judeus, todos estes fatos demonstram o controle de Deus e Seu cuidado para com o Seu povo (Sl 121:4). O livro também explica a origem da Festa de Purim, celebrada nos dias 13 e 14 de adar (fev. — mar.), quando os judeus celebram sua libertação do plano destruidor de Hamã."
+        ]
+      },
+      "p4": {
+        "thumb": "Exatidão Histórica",
+        "text": [
+          "As objeções levantas quanto à historicidade do livro de Ester incluem as seguintes: (1) a história secular não menciona nem Vasti nem Ester como rainhas durante o reinado de Xerxes. Contudo, Heródoto, que frequentemente omite personagens importantes (como Belsazar, Dn 5), relata que Xerxes buscou consolo em seu harém depois de sua derrota perante os gregos em Salamina, o que ocorreu no mesmo ano em que Ester foi feita rainha (Ester 2:16; Heródoto 7:7); (2) alega-se, com base em Ester 2:5-6, que o livro indica ter sido Xerxes sucessor imediato de Nabucodonosor, já que a referida pasagem parece dizer que Mordecai fora deportado por Nabucodonosor em 597 a.C. e ainda vivia no reinado de Xerxes. Entretanto, o antecedente do pronome relativo que no versículo 6 tem não é Mordecai, mas Quis, seu bisavô; (3) a matança de 75.000 inimigos dos judeus em um só dia, sem intervenção aparente dos persas (Et 9:16-17), tem recebido objeções. Todavia, embora incomum, tal feito não seria jamais impossível, devido à conhecida indiferença persa para com a vida humana e à preparação e ao armamento prévio dos judeus (8:13)."
+        ]
+      },
+      "p5": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Indubitavelmente Et 4:14 é o versículo mais conhecido do livro, enfatizando o tema do controle divino sobre todos os acontecimentos."
+        ]
       }
     }
   },
   "job": {
     "name": "Jó",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "Incerta",
+    "author": "Incerto",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Autor",
+        "text": [
+          "Embora saibamos que o título do livro se deriva de seu personagem principal e que Jó foi um personagem histórico (Ez 14:14, 20; Tg 5:11), não sabemos ao certo quem de fato escreveu o livro. As sugestões incluem o próprio Jó, Eliú, Moisés e Salomão."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Data",
+        "text": [
+          "A data dos acontecimentos e a data de autoria do livro são dois assuntos diversos. Os fatos provavelmente aconteceram numa sociedade patriarcal no segundo milênio a.C., por volta da época de Abraão. Vários fatores apoiam esta posição: (1) Jó viveu mais de 140 anos (Jó 42:16), um tempo de vida normal durante a era patriarcal; (2) na época de Jó, a economia era semelhante à do período patriarcal, em que a riqueza era medida em termos de cabeças de gado (Jó 1:3) tal como Abraão, Isaque e Jacó, Jó agia como sacerdote de sua família (Jó 1:5); (4) a ausência de qualquer referência à nação de Israel e à lei mosaica sugere uma data pré-mosaica (antes de 1500 a.C.).",
+          "Três pontos de vista são os mais importantes com respeito à data de autoria: (1) na era patriarcal, logo depois dos acontecimentos narrados no livro; (2) ao tempo  de Salomão (950 a.C.); (3) na época do exílio ou depois, embora a menção de Jó por Ezequiel (Ez 14:14) negue data tão recente. O relato detalhado dos discursos de Jó e seus amigos parece argumentar a favor de uma data de autoria bem próxima dos acontecimentos. Por outro lado, o livro partilha das características de outras obras da literatura sapiencial (por exemplo, Sl 88 e Sl 89), escritas durante a era salomônica, e deve ser considerado um poema dramático que descreve acontecimentos reais, apesar de não ser um relato literal."
+        ]
+      },
+      "p3": {
+        "thumb": "Tema",
+        "text": [
+          "O livro luta com a antiquíssima pergunta: \"Por que sofrem os justos, se Deus é um Deus de amor e misericórdia?\" Ensina claramente a soberania de Deus e a necessidade humana de reconhecê-la. Os três amigos de Jó ofereceram essencialmente a mesma resposta: todo sofrimento se deve ao pecado. Eliú, todavia, declarou que o sofrimento é frequentemente o meio de purificar os justos. O propósito de Deus, portanto, era eliminar da vida de Jó toda a autojustificação e levá-lo ao ponto de confiança plena e exclusiva nEle."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "O livro oferece vislumbres importantes sobre a atividade de Satanás (Jó 1:6 — Jó 2:10). Os versículos mais conhecidos do livro são 19:25-26."
+        ]
       }
     }
   },
   "sl": {
     "name": "Salmos",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "1000 a 333 a.C.",
+    "author": "Vários",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Título",
+        "text": [
+          "A variedade de cânticos, lamentos e louvores deste livro fez com que permanecesse anônimo no Antigo Testamento. Os judeus referiam-se a ele como \"o Livro de Salmos\" (de uma palavra grega que indica canções acompanhadas por instrumentos de corda). Este livro era o hinário do povo judeu."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Autoria e Data",
+        "text": [
+          "Os títulos dos vários salmos relacionam 73 deles a Davi, dois a Salomão, doze aos filhos de Coré, doze a Asafe, um a Hemã (1 Rs 4:31), um a Etã (1 Cr 15:19), e um a Moisés. A maioria dos salmos foi escrita durante o tempo de Davi e Salomão(século X a.C.)."
+        ]
+      },
+      "p3": {
+        "thumb": "A Natureza da Poesia Hebraica",
+        "text": [
+          "Ao contrário da maior parte da poesia ocidental, a poesia hebraica não se baseia em rima ou métrica, mas no ritmo e no paralelismo. O ritmo não é obtido pela disposição exata de sílabas acentuadas e não acentuadas, mas pela ênfase tonal e pela acentuação de palavras importantes.",
+          "No paralelismo, o poeta declara uma ideia na primeira linha, e depois a reforça de várias maneiras na(s) linha(s) subsequente(s). O tipo mais comum é o paralelismo sinônimo, em que a segunda linha repete essencialmente a idéia da primeira (Sl 3:1). No paralelismo antitético, a segunda linha contém uma idéia oposta à da primeira (Sl 1:6). No paralelismo sintético, a segunda linha ou as linhas subsequentes adicionam algo ou desenvolvem a idéia da primeira (Sl 1:1-2). No paralelismo emblemático, a segunda linha eleva o pensamento da primeira, frequentemente pelo uso de uma símile (Sl 42:1). Paralelismos não são restritos a apenas duas linhas, podendo se estender a estrofes (unidades menores contendo poucas linhas) ou a cantos (unidades mais longas). O acróstico alfabético também é utilizado (no Sl 119; Introdução a Lamentações)."
+        ]
+      },
+      "p4": {
+        "thumb": "Classificação do Salmos",
+        "text": [
+          "As categorias de salmos mais geralmente reconhecidas são: (1) os salmos de lamento e petições, tanto individuais (Sl 3) quanto coletivos (Sl 44); (2) salmos de ações de graça ou louvor, tanto individuais (Sl 30) quanto coletivos ou comunitários (Sl 65); (3) salmos de confiaça em Deus (Sl 4); (4) hinos, que incluem salmos de entronização de Javé, salmos relativos a Jerusalém (Sl 48), e salmos reais (alguns dos quais são messiânicos; Sl 2 e Sl 110); e (5) salmos didáticos e sapienciais (Sl 1, Sl 37 e Sl 119). Os salmos também podem ser classificados segundo seus temas; por exemplo a criação (Sl 8 — Sl 19), o Êxodo (Sl 78), imprecação (Sl 7), penitência (Sl 6), salmos de peregrinação (Sl 120). Salmos que contém profecias importantes relativas ao Messias incluem os salmos (Sl 2, 8, 16, 22, 40, 45, 72, 110 e 118)."
+        ]
+      },
+      "p5": {
+        "thumb": "Títulos e Termos Técnicos",
+        "text": [
+          "Todos os salmos, à exceção de 34, contêm títulos ou sobrescritos que normalmente constituem o primeiro versículo do texto hebraico. Tratam-se de títulos editoriais, acrescentados depois de os salmos terem sido escritos, mas são historicamente exatos.",
+          "Os dois termos técnicos mais comumente usados são: (1) Selá (que ocorre 71 vezes nos Salmos e três vezes em Habacuque 3), e que provavelmente era uma notação musical indicando um interlúdio ou uma mudança de acompanhamento musical (Obs: Na versão Almeida Revista e Atualizada, o termo \"Selá\" foi eliminado do texto.); e (2) Ao mestre de canto, expressão presente em 55 salmos (e Habacuque 3:19) e que sugere a existência de uma coleção de poemas dedicados a, ou reservados para o chefe dos cantores, possovelmente para uso em ocasiões especiais. Demais títulos e termos são comentados nos salmos em que ocorrem."
+        ]
+      },
+      "p6": {
+        "thumb": "Salmos Imprecatórios",
+        "text": [
+          "Estes salmos (Sl 7, 35, 55, 58, 59, 69, 79, 109, 137 e 139), que invocam juízo ou maldições sobre os inimigos do salmista têm deixado perplexos muitos comentaristas. Deve-se considerar, entretanto, que os propósitos destas imprecações são: (1) demonstrar o justo e reto juízo de Deus contra os ímpios (Sl 58:11); (2) demonstrar a aautoridade de Deus sobre os ímpios (Sl 59:13); (3) levar o ímpio a buscar o Senhor (Sl 83:16); (4) fazer com que os justos louvem a Deus (Sl 7:17). Por isso, motivados por seu zelo para com Deus e sua repulsa para com o pecado, os salmistas clamam a Deus para que puna o perverso e vindique a Sua justiça."
+        ]
+      },
+      "p7": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Os Salmos são divididos em cinco livros, cada um dos quais termina com uma doxologia (Sl 1 — Sl 41; Sl 42 — Sl 72; Sl 90 — Sl 106; Sl 107 — Sl 150) A nota incial de cada salmo contém um resumo de seu conteúdo."
+        ]
+      },
+      "p8": {
+        "thumb": "Expressões comuns",
+        "text": [
+          "As seguintes expressões ocorrem frequentemente nos salmos:",
+          [
+            ["Selá", "Masquil", "Mictam", " Seol"],
+            [
+              "Pode significar Pausa, Crescendo ou Interlúdio Musical.",
+              "Possivelmente Salmo Contemplativo, Didático ou Judicioso.",
+              "Possivelmente Poema Epigramático ou Salmo Expiatório.",
+              "O mundo inferior; o mundo dos mortos."
+            ],
+            ["", "", "", ""]
+          ]
+        ]
       }
     }
   },
   "pv": {
     "name": "Provérbios",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "950-700 a.C.",
+    "author": "Salomão e outros",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Autoria",
+        "text": [
+          "Segundo 1 reis 4:32, Salomão proferiu 3.000 provérbios e 1.005 cânticos. Ele escreveu a maior parte dos provérbios coletados neste livro. A divisão que vai de 1:1 — 9:18 é atribuída a ele, bem como as divisões de 10:1 — 22:16 e 25:1 —29:27, embora os provérbios nesta última divisão tenham sido selecionados da coleção de Salomão pelos escribas do rei Ezequias (Pv 25:1). Nada sabemos sobre Agur, autor do capítulo 30, ou de Lemuel, autor do capítulo 31."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Características",
+        "text": [
+          "O termo hebraico para \"provérbios\" significa comparação, e acabou por ser usado para qualquer tipo sapiencial ou moralista (cf. Ez 18:2; Sl 49:4). Muitos provérbios são parábolas condensadas. Os ditos reunidos neste livro formam uma biblioteca de instrução sobre como viver uma vida piedosa na terra e como estar seguro de uma recompensa na vida por vir. Assim, estes provérbios não são meros ditos populares, mas uma destilação de sabdoria dos que conheciam a lei de Deus.",
+          "Em sua forma escrita, este tipo de literatura remonta a cerca de 2700 a.C., no Egito. A divisão de Pv 22:17 a Pv 24:34 é semelhante aos provérbios de um escritor egípcio, Amenemope, que aparentemente viveu antes de Salomão."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Embora o tema que permeia todo o livro seja sabedoria para viver, ensinos específicos incluem instruções sobre a insensatez, o pecado, a bondade, a riqueza, a probreza, a língua, o orgulho, a humildade, a justiça, a vingança, a contenda, a gula, o amor, a cobiça, a preguiça, a amizade, a família, a vida e a morte. Quase todas as facetas dos relacionamentos humanos são mencionadas, e os ensinos do livro são aplicáveis a todos os homens em qualquer lugar."
+        ]
       }
     }
   },
   "ec": {
     "name": "Eclesiastes",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "c. 935 a.C.",
+    "author": "Salomão",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Título",
+        "text": [
+          "O título hebraico é Qohelet, que significa \"aquele que convoca uma assembléia e fala a ela\", ou um \"eclesiástico\" ou \"pregador\". O equivalente grego, ekklesiastes, também significa \"pregador\", sendo também derivado da palavra \"assembléia\"."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Autoria",
+        "text": [
+          "Embora não especifícado como Salomão, o autor se identifica como \"o filho de Davi, rei de Jerusalém\" (Ec 1:1). As referências no livro à sabedoria sem paralelo do autor (Ec 1:16), à sua riqueza inigualável (Ec 2:7), às suas oportunidades para o prazer (Ec 2:3), e vastos empreendimentos de construção (Ec 2:4-6) todas apontam para Salomão, já que nenhumoutro descendente de Davi satisfez tais condições. A tradição judaica afirma explicitamente que Salomão foi o autor.",
+          "Seguindo a sugestão de Martinho Lutero, muitos abandonaram o ponto de vista tradicional da autoria salomônica deste livro, julgando que tenha sido escrito depois do Exílio por um autor desconhecido que usou Salomão como seu personagem central. Afirma-se que a evidência linguística exige uma data pós-exílica, mas as provas não são de maneira alguma conclusivas. Fragmentos de Eclesiastes encontrados em Qumran eliminam qualquer possibilidade de autoria posterior a 150 a.C."
+        ]
+      },
+      "p3": {
+        "thumb": "Mensagem",
+        "text": [
+          "A mensagem do livro pode ser definida em termos de três proposiçõe: (1) quando se olha para a vida com seus ciclos aparentemente intermináveis (Ec 1:4ss) e paradoxos inexplicáveis (Ec 4:1; Ec 7:15; Ec 8:8), pode-se concluir que tudo é fútil, já que é impossível discernir qualquer propósito na ordem dos acontecimentos. (2) Apesar disso, a vida deve ser desfrutada ao máximo, com a compreensão de que é o dom de Deus (Ec 3:12-13; Ec 3:22; Ec 5:18-19; Ec 8:15; Ec 9:7-9). (3) O homem sábio viverá em obediência a Deus, reconhecendo que Ele, finalmente, julgará todos os homens (Ec 3:16-17; Ec 12:14).",
+          "Versículos frequentemnte citados incluem Ec 1:2; Ec 3:1; Ec 4:12b; Ec 11:1; Ec 12:1 e Ec 13."
+        ]
       }
     }
   },
   "ct": {
     "name": "Cânticos",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "c. 965 a.C.",
+    "author": "Salomão",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Título e Autoria",
+        "text": [
+          "Este livro tem sido intitulado de várias maneiras: o título hebraico, extraído do primeiro versículo, é \"Cânticos dos Cânticos\", o que significa o mais excelente dos cânticos; o título em português é inexato pois sugere pluralidade, enquanto o próprio texto em português sugere a unidade.",
+          "O versículo 1 afirma que Salomão escreveu este poema (dentre os 1.005 cânticos que escreveu, 1 Rs 4:32), embora o hebraico possa também significar \"O Cântico dos Cânticos, que é sobre Salomão\". O conteúdo do livro concorda com tudo que sabemos da sabedoria e capacidades de Salomão, e não há razão suficientemente forte para rejeitarmos sua autoria."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Interpretações",
+        "text": [
+          "(1) Alguns consideram o livro uma simples alegoria, i.e., personagens fictícios são empregados para ensinar a verdade do amor de Deus por Seu povo. Tal visãa não-histórica, todavia, é contrária a todos os princípios de interpretação normal das Escrituras, e deve ser rejeitada. (2) Outros corretamente entendem que o livro é um registro histórico do romance de Salomão e uma mulher sulamina. Os \"instantâneos\" no livro retratam as alegrias do amor no noivado e no casamento, contrapondo-se aos extremos do asceticismo e da luxúria. O lugar apropriado do amor físico, exclusivamente dentro do casamento, é claramente estabelecido e honrado. Dentro desse referencial histórico, alguns comentaristas também vêem ilustrações do amor de Deus (e de Cristo) por Seu povo. Obviamente Salomão não oferece o melhor exemplo devoção conjugal, já que teve muitas esposas e concubinas(140 a esta altura de sua vida, Ct 6:8; muitas mais, depois, 1 Rs 11:3). As experiências registradas neste livro podem refletir o único (ou virtualmente o único) romance verdadeiro que ele teve."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Um poema lírico em forma de diálogo, o livro descreve o amor de Salomão por uma jovem sulamita. O rei vem, disfarçado, à vinha da família da jovem, ganha o seu coração e, por fim, faz dela a sua noiva."
+        ]
       }
     }
   },
   "is": {
     "name": "Isaías",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "740-680 a.C.",
+    "author": "Isaías",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "O profeta",
+        "text": [
+          "Nascido de família influente da classe alta, Isaías teve contato com a realeza e foi um conselheiro de assuntos internacionais do reino de Judá. Embora comumente fosse alvo de zombaria, advertiu vigorosamente seu país contra as alianças com nações vizinhas, exortando Judá a confiar no Senhor (Is 7:4; Is 30:1-17). Ele também atacou os males sociais de sua época, não por ser um reformador social, mas por ver tais abusos como sintomas de apostasia espiritual (Is 1:3-9; Is 58:6-10). Depois de viver a maior parte de sua vida em Jerusalém, Isaías foi martirizado (segundo a tradição judaica) durante o reinado de Manassés (696-642 a.C.), tendo sido serrado ao meio dentro de um tronco oco (cf. Hb 11:37)."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Sua Época",
+        "text": [
+          "Durante a segunda metade do século oitavo a.C., Judá parecia estar seguindo o exemplo de apostasia deixado pelas dez tribos do reino de Israel (que viriam a ser capturadas pela Assíria em 772 a.C.). O rei Acaz estupidamente buscou proteção com a Assíria contra o reino do Norte, muito embora Isaías lhe tivesse afirmado que Israel em breve cairia nas mãos dos assírios (Is 8:3-4). Ezequias, filho de Acaz e homem temente a Deus, instituiu reformas espirituais, mas buscou a ajuda do Egito em questões de segurança nacional. O Egito caiu diante dos exércitos de Senaqueribe, rei da Assíria, e foi somente por intervenção divina que Judá escapou de igual destino (Is 37:36-37). Durante o reinado de Manassés, as práticas idólatras foram reinstituídas, e Isaías advertiu para a inevitabilidade do cativeiro babilônico. Ele também garantiu profeticamente a preservação do povo e restauração nacional."
+        ]
+      },
+      "p3": {
+        "thumb": "Composição",
+        "text": [
+          "Muito debate tem surgido quanto à autoria dos capítulos 40 a 66. Alguns atribuem toda esta divisão do livro a um \"Deutero-Isaías\", que teria vivido por volta de 540 a.C. (após o cativeiro babilônico). Outros sugerem que um \"Trito-Isaías\" escreveu os capítulos 56 a 66. Ainda outros vêem inserções e editoração tão recentes quanto o primeiro século a.C., uma posição difícil de sustentar-se à luz da descoberta do rolo de Isaías (contém todo o livro) nas cavernas de Qumram, pois este foi datado no segundo século a.C.",
+          "Estas sugestões procuram eliminar o elemento sobrenatural necessário à profecia preditiva. Assim, o cativeiro babilônico e o retorno promovido por um monarca persa (especificadamente denominado Ciro) não são vistos como fatos preditos com 150 anos de antecedência, mas como fatos históricos registrados depois de acontecidos. Ainda que tal conclusão fosse admitida, não invalidaria a profecia preditiva. O nome do rei Josias foi predito com três séculos de antecedência por um profeta anônimo (1 Rs 13:2), e Belém foi citada como o lugar de nascimento do Messias sete séculos antes do evento (Mq 5:2). Além disso, há profecia preditiva nos capítulos 1 a 39 de Isaías (veja Is 7:16; Is 8:4; Is 7; Is 37:33-35; Is 38:8 com respeito a profecias rapidamente cumpridas, e Is 9:1-2 e Is 13:17-20 com respeito a profecias de cumprimento mais demorado).",
+          "Se o chamado \"Deutero-Isaías\" viveu em Babilônia, como se alega, demonstra pouco conheciemnto da geografia mesopotâmica, mas grande familiaridade com a Palestina (Is 41:19; Is 43:14; Is 44:14). Além disso, afirma-se que as diferenças de estilo e linguagem só podem ser explicadas se postularmente autores diferentes, uma teoria que, aplicada a Milton, Goethe, ou Shakespeare, exigiria a conclusão de que muitas de suas obras seriam espúrias. Muito pelo contrário, podem-se apontar 40 ou 50 frases e sentenças  que aparecem em ambas as divisões do livro e, portanto favorecem a autoria única (cf. Is 1:20 com Is 40:5 e Is 58:14; Is 11:6-9 com Is 65:25; Is 35:6 com Is 41:18, etc.).",
+          "Propor dois ou mais autores para este livro é também contraditar a evidência do Novo Testamento. Citações dos capítulos Is 40 — Is 66 se acham em Mateus 3:3; Mateus 12:17-21; Lucas 3:4-6; Atos 8:28; Romanos 10:16,20 e são todas atribuídas a Isaías. Além disso, em Jo 12:38-41, citações de Isaías 6:9-10 e Isaías 53:1 aparecem juntas e são ambas atribuídas ao Isaías que viu o Senhor na visão do templo do capítulo 6. Devemos, portanto, concluir que o mesmo autor foi responsável por todo o livro, e que nenhuma parte dele foi escrita durante ou depois do cativeiro babilônico."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Isaías é frequentemente chamado \"o profeta evangélico\" por falar muito sobre a obra redentora do Messias. Em suas páginas se encontra mais sobre a pessoas e obra de Cristo do que em qualquer outro livro do Antigo Testamento. Consequentemente, há muitas passagens importantes e queridas no livro, algumas das quais são: Is 1:18; 2:4; 6:3,8; 7:14; 9:6-7; 11:9; 26:3; 35:1; 40:3; 48:16; 53; 55:1; 57:15; 59:1; 61:1-3."
+        ]
       }
     }
   },
   "jr": {
     "name": "Jeremias",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "627-585 a.C.",
+    "author": "Jeremias",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "O Profeta",
+        "text": [
+          "Frequentemente chamado \"o profeta chorão\" (Jr 9:1; 13:17) ou \"o profeta solitário\" (por ter recebido ordem de não se casar, Jr 16:2), Jeremias foi também \"o profeta relutante\" (Jr 1:6). No entanto, por mais de 40 anos ele proclamou fielmente o julgamento divino contra o reino apóstata de Judá, suportando durante todo esse tempo oposição, espancamento e aprisionamento (Jr 11:18-23; 12:6; 20:1-3; 26:1-24; 37:11 — 38:28).",
+          "Jeremias começou seu ministério (com cerca de 20 anos de idade) no reinado do bom rei Josias, com quem o profeta mantinha relações cordiais. Depois da morte de Josias a oposição ao profeta ganhou ímpeto. Ele escapou por pouco à prisão, foi proibido de ir ao templo, e teve de comissionar Baruque, seu secretário, para anunciar as profecias. O rei Zedequias permitiu que nobres de tendências nacionalistas prendenssem Jeremias, e depois reduziu a pena. Quando as forças de Nabucodonosor conquistaram Jerusalém em 586 a.C., Jeremias foi libertado e recebeu direito de escolher entre ir para a Babilônia ou permanecer em Jerusalém. Preferiu a segunda opção, mas pouco depois foi raptado e levado para o Egito por alguns judeus que preferiram fugir a enfrentar a ira de Nabucodonosor. No Egito, Jeremias profetizou ainda por alguns anos e ali, ao que tudo indica, morreu.",
+          "Sensível e compassivo por natureza, recebeu de Deus a incumbência de proclamar uma severa mensagem de julgamento. A oposição que sofreu foi cruel e opressora, a tal ponto que mais de uma vez ele quis abandonar sua condição de profeta; continuou, entretanto, até o final da vida, a proclamar a Palavra de Deus."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Uma Cronologia da Época de Jeremias",
+        "text": [
+          [
+            ["627 a.C."],
+            [
+              "Jeremias  é chamado por Deus. Judá paga tributo à Assíria, cujo poder começava declinar."
+            ]
+          ],
+          [["612 a.C."], ["Nínive, a capital da Assíria, é saqueada."]],
+          [
+            ["609 a.C."],
+            [
+              "O rei Josias é morto em Megido, combatendo Neco, faraó do Egito, que lutava para auxiliar a Assíria (2 Rs 23:29-30)"
+            ]
+          ],
+          [
+            ["609 a.C."],
+            [
+              "Jeoacaz reina em Judá por três meses antes de ser deposto por Neco e levado em cadeias ao Egito (2 Rs 23:32-33; cf. Jr 22:13-17)."
+            ]
+          ],
+          [
+            ["609-598 a.C."],
+            ["Jeoaquim reina em Judá como vassalo do Egito (Jr 22:13-17)."]
+          ],
+          [
+            ["605 a.C."],
+            [
+              "Batalha de Carquemis, onde Nabucodonosor derrotou as forças egípcias (Jr 46:2). Nabucodonosor invade a Palestina e leva reféns judeus para a Babilônia (inclusive Daniel, cf. 2 Rs 24:1). Jeoaquim abandonou a suserania do Egito e torna-se vassalo de Babilônia."
+            ]
+          ],
+          [
+            ["601 a.C."],
+            [
+              "Jeoaquim alia-se novamente ao Egito contra as advertências de Jeremias (Jr 22:13-19)."
+            ]
+          ],
+          [
+            ["597 a.C."],
+            [
+              "Morte de Jeoaquim (no fim de 598 ou começo de 597). Nabucodonosor sitia Jerusalém e deporta o rei Joaquim, substituindo-o por Zedequias (2 Rs 24:17)."
+            ]
+          ],
+          [
+            ["586 a.C."],
+            [
+              "Nabucodonoor novamente conquista Jerusalém porque Zedequias entrara em negociações com o Egito (2 Rs 25:1-7). Gedalias é indicado como governador de Judá (2 Rs 25:22-26). Gedalias é assassinado. Jeremias é levado para o Egito."
+            ]
+          ]
+        ]
+      },
+      "p3": {
+        "thumb": "Descobertas Arqueológicas",
+        "text": [
+          "Várias descobertas arqueológicas importantes têm corroborado a historicidade do relato bíblico sobre os últimos anos do reino de Judá. (1) A Crônica Babilômica oferece informações sobre as campanhas dos exérxitos babilônicos de 626 a.C. em diante, incluindo a captura de Jerusalém em 597 a.C. (2) As Cartas de Laquis descrevem a situação em Judá pouco antes do cerco final de Jerusalém por Nabucodonosor em 586 a.C. Um selo com o nome de Gedalias foi encontrado neste local. (3) Tabletes de barro encontrados junto à Porta de Istar, na antiga Babilônia, incluem o nome de \"Yaukin (Joaquim), rei da terra de Yahud (Judá)\" como um dos que recebiam dos subsídios reais (cf. 2 Rs 25:29-30)."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "A disposição das profecias não é cronológica. O seguinte quadro visa situar alguns dos oráculos dentro de seu contexto histórico, indicado pelo rei que governava Judá.",
+          [
+            [
+              "Josias",
+              "Jeoacaz (Salum)",
+              "Jeoaquim",
+              "Joaquim (Jeconias, Conias",
+              "Zedequias",
+              "Gedalias"
+            ],
+            [
+              "capítulos 1 — 6",
+              "capítulos 22:10-12",
+              "capítulos 7 — 20; 25 — 26; 35 — 36; 45; 46:1-12; 47 — 49",
+              "capítulos 22 — 23",
+              "capítulos 21; 24; 27 — 34; 37 — 39",
+              "capítulos 40 — 44"
+            ]
+          ],
+          "Advertências contra o pecado e promessas de juízo são proeminentes em todo o livro, mas igualmente o é a mensagem de esperança e restauração. Profecias importantes incluem a maldição sobre Jeconias (Joaquim, Jr 22:30), a preição sobre o Messias (Jr 23:5-6), a duração do cativeiro babilônico (Jr 25:11) e a revelação da nova aliança (Jr 31:31-34). Rebeldia e rebelde são palavras-chaves e há mais referências a \"Babilônia\" em Jeremias (164) do que em todo o resto da Bíblia."
+        ]
       }
     }
   },
   "lm": {
     "name": "Lamentações de Jeremias",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "586/5 a.C.",
+    "author": "Jeremias",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Título",
+        "text": [
+          "O termo Lamentações vem do título grego, derivado de um verbo que significa \"chorar em voz alta\", e descreve com exatidão o conteúdo do livro, que consiste de cinco poemas melancólicos de lamentação pela completa destruição de Jerusalém e do templo pelos caldeus."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Autoria",
+        "text": [
+          "Embora o livro em si não nos forneça o nome de seu autor, o consenso da tradição judaica o atribui a Jeremias. O cabeçalho do livro na Septuaginta (tradução do Antigo Testamento para o grego) e na Vulgata (Bíblia latina) traz esta frase: \"Jeremias se assentou a chorar e compôs este lamento por Jerusalém.\" Existem também muitas similaridades entre Lamentações e Jeremias (a expressão \"filha de\", por exemplo, ocorre cerca de vinte vezes em cada livro). Além disso, Jeremias é especificadamente relacionado a este tipo de literatura em 2 Cr 35:25."
+        ]
+      },
+      "p3": {
+        "thumb": "Estrutura",
+        "text": [
+          "O livro consiste de cinco poemas (cada capítulo, um poema), sendo os quatro primeiros sob a forma de acrósticos (cada versículo começa com uma das letras do alfabeto hebraico — exceto no capítulo 3, onde cada uma das 22 letras inicia três versículos). Estes quatro capítulos são, ainda, escritos com a chamada métrica qinnâ, ou métrica manca, uma cadência utilizada em canções fúnebres, bastante apropriada para este lamento pela destruição de Jerusalém."
+        ]
+      },
+      "p4": {
+        "thumb": "Uso",
+        "text": [
+          "Os judeus costumam ler publicamente este livro durante o nono dia do mês de ab (por volta de meados de julho), relembrando as destruições de Jerusalém em 586 a.C. (quando Jerusalém foi destruída pelos caldeus) e em 70 A. D (pelos romanos). Os católicos romanos utilizavam o livro durante os três últimos dias da Semana Santa. O assunto de que se ocupa o livro de fato relembra o peso que Jesus sentia em Seu coração por Jerusalém (Mt 23:37-38). Os versículos mais conhecidos do livro são sem dúvida, Lm 1:12a e 3:22-23."
+        ]
       }
     }
   },
   "ez": {
     "name": "Ezequiel",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "592-570 a.C.",
+    "author": "Ezequiel",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "O Profeta",
+        "text": [
+          "Procedente de uma família sacerdotal (Ez 1:3), Ezequiel, cujo nome significa \"Deus fortalece\", passou seus primeiros anos em Jerusalém até ser levado como prisioneiro de guerra, juntamente com outros judeus, para Babilônia em 597 a.C., por Nabucodonosor. Ali ele se instalou, em sua própria casa numa vila próxima de Nipur, junto ao rio Quebar (o canal real construído por Nabucodonosor), em Babilônia (Ez 3:15,24). Profetizou durante pelo menos 22 anos (Ez 1:2 e 29:17-21). Sua esposa morreu em 587 a.C. (Ez 24:16-18)."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "A Época",
+        "text": [
+          "O ministério de Ezequiel aos judeus em Babilônia se deu ao tempo em que Jeremias profetizava aos judeus na Palestina e na época em que Daniel inciava seu ministério em Babilônia. Os eventos mais importantes desse período se acham alistados em Introdução a Jeremias."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Ezequiel encarregou-se de sempre relembrar os exilados sobre os pecados que haviam trazido sobre eles o juízo divino, assegurando-os, entretanto, da benção futura que Deus traria ao povo, de acordo com a Sua aliança. OS capítulos 1 a 24 foram escritos, antes da queda de Jerusalém, para relembrar aos seus companheiros de cativeiro que o juízo de Deus contra a cidade e o templo certamente viria. Os capítulos 33 a 48 contêm profecias da futura restauração de Israel ainda por cumprir-se no reino milenar.",
+          "Pasagens messiânicas importantes do livro são Ez 17:22-24; 21:26-27 e 34:23-24. A destruição de Gogue é descrita nos capítulos 38 — 39 e o templo e a adoração no Milênio são descritos nos capítulos 40 — 48. Passagens bem conhecidas incluem Ez 1:4-28; 3:16-21; 11:17-20; 14:14; 28:11-19; 36:24-28 e 37:1-28."
+        ]
       }
     }
   },
   "dn": {
     "name": "Daniel",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "537 a.C.",
+    "author": "Daniel",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "O Profeta",
+        "text": [
+          "Daniel, cujo nome significa \"Deus é meu juiz\", foi um estadista na corte de reis pagãos. Levado cativo para a Babilônia quando jovem, na primeira deportação ordenada por Nabucodonosor, em 605 a.C., passou lá o restante de sua longa vida como oficial do governo e como profeta do Deus verdadeiro. Ele reivindica a autoria deste livro e Jesus Cristo identificou-o como profeta (Mt 24:15; Mc 13:14). Por não ter ocupado o cargo ou desempenhado formalmente a função de profeta entre os israelistas, seu livro encontra-se na terceira divisão da Bíblia Hebraica, os \"Escritos\", em vez de na segunda, os Profetas. Durante toda a sua vida Daniel jamais abriu mão de seu compromisso e fidelidade para com Deus."
+        ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Data",
+        "text": ["O primeiro ataque contra a posição tradicional, que  data a composição do livro no sexto século a.C., partiu de Portírio (A.D. 232-303), um ardoroso opositor do cristianismo, que afirmou ter sido o livro escrito por um judeu desconhecido, contemporâneo de Antíoco Epifânio (175-163 a.C.) Este ponto de vista foi amplamente promovido por eruditos dos séculos XVIII e XIX pelas seguintes razões: alegavam eles que Daniel não poderia ter feito tais predições, já que elas se cumpriram tão exatamente que só poderiam ter sido escritas depois de terem acontecido. Palavras persas e gregas usadas no livro, alegavam tais críticos, seriam desconhecidas de um judeu que tivesse vivido no sexto século a.C. Afirmavam ainda que o aramaico usado em Dn 2:4 — 7:28 pertence a uma época posterior a Daniel. Alegavam ainda inexatidões históricas. Em resposta a tais argumentos podemos afirmar que a profecia preditiva não é apenas possível a um verdadeiro profeta de Deus; ela é esperada dele! Além disso, por ter vivido até o período do império persa, não seria estranho que um estadista como Daniel conhecesse a língua persa. A presença de palavras gregas é facilmente explicada, já que cem anos antes de Daniel, mercenários gregos serviam nos exércitos assírios de Esaradom (683 a.C.) e nos exércitos babilônicos de Nabucodonosor. Descobertas recentes, de documentos aramaiacos datados do quinto século a.C., demonstram que Daniel foi escrito em aramaico imperial, um dialeto oficial conhecido em todas as partes do Oriente Médio naquela época. Supostas inexatidões históricas têm desaparecido com rapidez, em vista das informações oferecidas pela Crônica de Nabonido quanto à identidade de Belsazar (Dn 5:1) e uma evidência que identifica Dario, o medo, com um governador chamado Gubaru (Dn 5:1).", 
+        "Além de tudo isso, como justificar o uso tão escasso de palavras gregas se o livro tivesse sido escrito por volta de 170 a.C., depois de um governo de língua grega ter dominado a Palestina por 160 anos? Era de se esperar a presença de muitos termos gregos. Também deve-se observar que os documentos de Qumran (os manuscritos do mar Morto), datados umas poucas décadas depois da data alegada pelos críticos para o livro de Daniel, mostram diferenças gramaticais que indicam terem sido escritos séculos, e não décadas, depois de Daniel. Além disso, os rolos de Daniel encontrados em Qumran são cópias, indicando que o original fora escrito antes do período dos Macabeus."
+      ]
+      },
+      "p3":{
+        "thumb": "A Época",
+        "text":["Em 605 a.C. Nabucodonosor levou Daniel e outros como cativos para Babilônia (veja a Introdução a Jeremias). Por causa dos acontecimentos registrados no capítulo 2 do livro, Daniel recebeu um lugar de destaque e responsabilidade no reino de Nabucodonosor. Depois da morte do rei, Daniel aparentemente perdeu seu lugar de prestígio, mas foi chamado de volta à corte para interpretar o escrito que aparecera na parede durante a festa promovida por Belsazar (Dn 5:13). Daniel foi nomeado um dos três presidentes durante a administração de Dario (Dn 6:2) e viveu até oterceiro ano de Ciro (536 a.C.). Seu ministério foi o de testificar, por sua vida pessoal e por suas profecias, do poder de Deus. Embora no exílio, o povo de Israel não fora abandonado por Deus, e Daniel revelou muitos detalhes do plano divino para o futuro do povo. Daniel também descreveu o curso da história dos poderes gentílicos desde seus dias até a segunda vinda de Cristo."
+      ]
+      },
+      "p4":{
+        "thumb": "Conteúdo",
+        "text": ["Profecias importantes do livro incluem: o curso histórico dos impérios gentílicos (o futuro de Babilônio, Pérsia, Grécia e Roma, Dn 2 e 7), detalhes concernentes ao Império Medo-Persa e à Grécia (Dn 8), mais detalhes sobre a Grécia (Dn 11), a profecia das setentas semanas de anos (Dn 9:24-27), e as atividades do anticristo (Dn 11:36-45). Entre as doutrinas mencionadas no livro estão: sensação pessoal (Dn 1:8; 3:12; 6:10; 9:2-3; 10:2-3;); anjos (Dn 8:16; 9:21; 10:13, 20-21; 11:1); ressureição (Dn 12:2); anticristo (Dn 7:24-25; 9:27; 11:36). Narrativas favoritas incluem a de Sadraque, Mesaque e Abede-Nego (Dn 3) e a da cova dos leões (Dn 6)."]
       }
     }
   },
   "os": {
     "name": "Oséias",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "c. 710 a.C.",
+    "author": "Oséias",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "O Profeta e Sua Época",
+        "text": ["Tudo que sabemos do profeta é extraído dos trechos autobiográficos do próprio livro. Tal como seu contemporâneo Amós, ele profetizou para o reino do Norte (Israel, ás vezes chamado Efraim, por causa da tribo mais importante), enquanto Isaías e Miquéias misnistravam no reino do Sul (Judá). A época do reinado de Jeroboão II (782-753 a.C.), em que Oséias comecou seu ministério (2 Rs 14:23 — 17:41), caracterizou-se por prospridade material e falência espiritual. O juízo divino parecia muito distante, mas em 732 a.C. Damasco caíra capturada e o povo deportado. Alguns dos pecados específicos denunciados por Oséias estão listados em Os 4:2, 4, 11, 12, 13; 5:2; 6:8, 9; 7:1; 5; 8:14; 10:1, 4; 13:2."
+      ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "O Casamento de Oséias",
+        "text": ["O tema do livro é o leal amor de Deus por Israel a despeito de sua contínua infidelidade, tema este que é vividamente retratado pela experiência conjugal de Oséias que, após casar-se com Gômer, descobriu que ela era infiel. Embora viesse a separação, o amor de Oséias (como o amor de Deus por Seu povo), persistiu e, finalmente, aconteceu a reconciliação.", 
+        "Três teorias têm sido apresentadas sobre o casamento de Oséias: (1) Trata-se de simples alegoria; o livro não contém qualquer registro de um casamento real. (2) Oséias casou-se com uma mulher que já era uma prostituta, talvez uma prostituta cultual. (3) Gômer prostituiu-se depois do casamento. Embora a experiência trágica de Oséias ilustre o amor de Deus por Seu povo extraviado, não há bases legítimas para rejeitar a historicidade do casamento. É difícil, entretanto, determinar qual opinião entre (2) e (3) é a correta."]
+      },
+      "p3":{
+        "thumb": "Conteúdo",
+        "text":["Os capítulos 1 — 3 retratam a vida doméstica do profeta, enquanto os demais capítulos registram excertos de suas ,mensagens, apresentadas no decurso dos quase cinquenta anos de sua carreira profética. Nesta última divisão do livro, três temas predominam: os pecados do povo, a certeza do juízo divino, e a confirmação do amor leal de Deus."]
       }
     }
   },
   "jl": {
     "name": "Joel",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "835 a.C.",
+    "author": "Joel",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "O Profeta e Sua Época",
+        "text": ["Joel, cujo nome significa \"Javé é Deus\", aparentemente escreveu durante os dias da infância do rei Joás (835-796 a.C.), que esteve sob a tutela de sacerdotes por algum tempo depois de sua ascensão ao trono com a idade de 7 anos (2 Rs 11:21). Embora alguns comentaristas datem o livro como sendo pós-exílico, os inimigos de Judá não são identificados na profecia como sírios, assírios ou babilônicos, como seria o caso se o livro tivesse sido escrito depois o cativeiro (Veja Jl 3:4, 19).", 
+        "A profecia foi ocasiondada por uma forte seca e uma devastadora praga de gafanhotos, que Joel viu como um castigo pelos pecados do povo. Ele também retratou esta invasão gafanhotos como um exército, um prenúncio de uma grande campanha militar a ser desencadeada no Dia do Senhor."
+      ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "O Dia do Senhor",
+        "text": ["O Dia do Senhor, tema principal desta profecia, envolve uma intervenção especial de Deus nos aconteciemntos da história humana. Três facetas do Dia do Senhor são perceptíveis: (1) a histórica, ou seja, a intervenção de Deus na história passada de Israel (Sf 1:14-18; Jl 1:15) e das nações pagãs (Is 13:6; Jr 46:10; Ez 30:3); (2) a ilustrativa, em que um incidente histórico representa um cumprimento parcial do Dia do Senhor escatológico (Jl 2:1-11; Is 13:6-13); (3) a escatológica; este dia \"escatológico\" inclui o período da Grande Tribulação (Is 2:12-19; 4:1), a segunda vinda de Cristo (Jl 2:30-32), e o Milênio (Is 4:2; 12; 19:23-25; Jr 30:7-9)."]
       }
     }
   },
   "am": {
     "name": "Amós",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "755 a.C.",
+    "author": "Amós",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "O Profeta",
+        "text": ["Amós era morador de Tecoa (uma vila que ficava 16 quilômetros ao sul de Jerusalém) e viajou para o norte, até Betel, pregando assim no que era, virtualmete, solo estrangeiro. Embora fosse um leigo, não um profeta profissional, recebera uma chamada direta de Deus para sua obra (Am 7:15). Por ocupação ele era um criador de ovelhas, talvez um pastor importante, com pastores assalariados. A mesma palavra hebraica é usada para descrever a atividade de Mesa (2 Rs 3:4). A pregação de Amós em Betel, centro de idolatria e residência do rei de então, Jeroboão II, provocou tamanha oposição que ele retornou a Judá, onde colocou em forma escrita sua mensagem. Esse registro demosntra que ele era um homem de negócios, não um pastor rústico e ignorante."
+      ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "A Época",
+        "text": ["Uzias, rei de Judá (791-740 a.C.), governava sobre uma nação próspera, mas estava sob a influência de Jeroboão II, rei de Israel (793-753 a.C.), cujo reinado foi, exteriormente, o zênite do poderio israelita, ao passo que, internamente, foi um período de idolatria e corrupção (cf. 2 Rs 14:24-25). Além disso, caracterizaram aquela época a prosperidade material e os males sociais (Am 2:6-8; 3:10; 4:1; 5:10-12; 8:4-6)."
+      ]
+      },
+      "p3":{
+        "thumb": "O Tema",
+        "text":["Atacando tanto os males sociais de seu povo quanto seu culto paganizado, Amós lançou um apelo urgente ao arrependimento como o único meio de escape do juízo iminente. A posição privilegiada de Israel, declarou ele, deveria ter sido um incentivo a uma vida justa, e jamais uma permissão para o pecado. Alguns versículos favoritos e importantes do livro se encontram em Am 3:2; 3:3; 5:24; 9:11."
+      ]
       }
     }
   },
   "ob": {
     "name": "Obadias",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "840 ou 586 a.C.",
+    "author": "Obadias",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Tema",
+        "text": ["Edom já está julgado e seu castigo é certo, devido ao seu orgulho demonstrado no regozijo pela tragédia que se abateu sobre Jerusalém."]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Os Edomitas",
+        "text": ["Descendentes de Esaú, irmão gêmeo de Jacó, os edomitas viviam em constante conflito com Israel, os descendentes de Jacó. Rejeitaram a solicitação de Moisés para que Israel passasse por sua terra (Nm 20:14-20), opuseram-se ao rei Saul (1 Sm 14:47), combateram contra Davi (1 Rs 11:14-17), foram contra Salomão (1 Rs 11:14-25) e Josafá (2 Cr 20:22), e se rebelaram contra Jeorão (2 Cr 21:8). Do século treze ao século sexto a.C. estabeleceram-se no monte Seir, uma região montanhosa ao sul do mar Morto, da qual Sela (Petra) era capital. Tão escarpado é o terreno que o vale em que se localiza Petra só pode ser atingido por um desfiladeiro estreito guardado por paredes rochosas muito íngrimes de 65-85 metros de altura (veja Ob 3 — 4). Durante o quinto século a.C. os nabateus desalojaram os edomitas de seu território, fazendo-os retirar-se para a Iduméia, ao sul da Palestina. Herodes, o Grande, era um edomita."
+      ]
+      },
+      "p3":{
+        "thumb": "Data",
+        "text":["A questão da data depende da batalha contra Jerusalém com a qual os edomitas estiveram associados (vv. 11-14). Houve quatro invações significativas de Jerusalém no tempo do A.T.: (1) por Sisaque, rei do Egito, durante o reinado de Roboão, em 926 a.C. (1 Rs 14:25-26); (2) pelos filisteus e árabes, durante o reinado de Jeorão, entre 848-841 a.C. (2 Cr 21:16-17); (3) pelo rei Joás de Israel, durante o reinado de Amazias, em 790 a.C. (2 Rs 14:13-14); (4) por Babilônia , entre 606 e 586 a.C. (2 Rs 24 — 25). Obadias profetizou contra Edom por sua participação na segunda ou na quarta invasão. Se foi na segunda, este livro é a mais antiga profecia escrita no A.T. (veja 2 Rs 8:20 e 2 Cr 21:16-17; veja depois Jl 3:3-6 comparado com Ob 11-12 e o uso de Ob 1-9 na extensa passagem em Jr 49:7-22 como apoio para a data mais antiga)."]
       }
     }
   },
   "jn": {
     "name": "Jonas",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "760 a.C.",
+    "author": "Jonas",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "História ou Alegoria",
+        "text": ["Alguns consideram este livro uma alegoria, escrito por volta de 430 a.C. para combater o exclusivismo de Esdras e Neemias. Sob esta ótica, Jonas representa a nação israelita desobediente; o mar representa os gentios; o grande peixe, Babilônia; os três dias no ventre do peixe, o cativeiro dos judeus em Babilônia.", 
+        "De acordo com 2 Rs 14:25, entretanto, além de ser uma pessoa real, Jonas foi também um profeta nacionalmete reconehcido e oriundo de Gate-Hafer, próximo a Nazaré. Além disso, Jesus tratou Jonas e sua experiência no ventre do peixe como fato histórico (Mt 12:39-41). E, naturalmente, o livro apresenta um relato histórico direto e simples. Isso não exclui a presença de lições através de tipos, ilustradas pelos incidentes históricos."
+      ]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "A Época",
+        "text": ["2 Rs 14:25-27 relaciona Jonas ao reinado de Jeroboão II, rei de Israel (793-753 a.C.), que conseguira restabelecer o poder israelita sobre a maior parte do território ao norte de Judá outrora dominado por Davi e Salomão. Nenhuma inscrição assíria menciona um despertamento religioso semelhante ao descrito no livro. Durante o reinado de  Adade-Nirari III (810-783 a.C.), todavia, houve um movimento em direção ao monoteísmo que poderia  ter sido o resultado (ou uma futura ajuda) da pregação de Jonas. Outra data possível para o avivamento é o reinado de Assur-Dan III (771-754 a.C.). Uma epidemia em 765 a.C., o eclipse do Sol em 763 a.C. e uma segunda epidemia em 759 a.C. foram eventos do tipo considerado pelos antigos como indícios de juízo divino, e poderiam, por isso, ter preparado o povo para a mensagem de Jonas."
+      ]
+      },
+      "p3":{
+        "thumb": "Milagres",
+        "text":["Vários milagres estão registrados no livro: o acalmar da tempestade antes que a tribulação do navio fosse destruída (Jn 1:5); a provisão do grande peixe e a preservação de Jonas em seu interior (Jn 1:17); o fato de o peixe ter vomitado Jonas junto à praia (Jn 2:10); a preparação da planta (Jn 4:6), o aparecimento do verme (Jn 4:7) e do vento (Jn 4:8), e a salvação de muitos ninivitas."
+      ]
+      },
+      "p4":{
+        "thumb": "Tema",
+        "text":["O livro demonstra que o Deus dos hebreus Se preocupa com todo o mundo."
+      ]
       }
     }
   },
   "mq": {
     "name": "Miquéias",
-    "date": "XXXX a XXXX a.C.",
-    "author": "Autor",
+    "date": "700 a.C.",
+    "author": "Miquéias",
     "content": {
       "p1": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "O Profeta",
+        "text": ["Enquanto Oséias profetizou às dez tribos de Israel, reino do Norte, e Isaías à corte em Jerusalém, Miquéias, um judeu de Moresete, uma vila sudoeste da Palestina, pregou ao povo simples de Judá. Seu nome significa \"Quem é como Javé?\""]
       },
       "p2": {
-        "thumb": "Título Negrito",
-        "text": ["Parágrafo-1", "Parágrafo-2", "Parágrafo-3"]
+        "thumb": "Sua Época",
+        "text": ["Miquéias ministrou durante os reinados de Jotão (750-732 a.C.), Acaz (736-716 a.C.) e Ezequias (716-687 a.C.)(Mq 1:1). Embora de modo geral tenha sido um bom rei, Jotão não removeu de seu reino os altos onde os judeus praticavam a idolatria. Acaz foi um rei ímpio (veja 2 Rs 16:2-4) que adotou uma política pró-Assíria e durante cujo reinado aconteceu o exílio das tribos do Norte. Ezequeias, um dos melhores reis de Judá, era antiassírio em sua política e resistiu vitoriosamente ao cerco de Jerusalém por Senaqueribe em  701 a.C. (2 Rs 18:13 — 19:36). Para os camponeses e moradores das vilas foram tempos de tormento frequente por parte de exércitos inimigos, de miséria por causa da exploração pelos ricos (Mq 2:1-13) e de opressão pelos governantes (Mq 3:1-4) e falsos profetas (Mq 3:5-8). Miquéias, como Amós, clamou por justiça social."
+      ]
+      },
+      "p3":{
+        "thumb": "Conteúdo",
+        "text":["Três citações importantes de Miquéias são encontradas em outras partes da Bíblia. Uma delas salvou a vida do profeta Jeremias (Jr 26:18, uma citação de Mq 3:12). Os sacerdotes e escribas citaram Mq 5:2 em resposta à pergunta de Herodes qaunto ao ocal de nascimento do Messias (Mt 2:5-6). Cristo citou Mq 7:6 ao comissionar os discípulos pela primeira vez (Mt 10:35-36). Miquéias 4 é uma das mais importantes descrições bíblicas da glória futura de Israel, e Miquéias 6:8 é um dos versículos favoritos. As divisões principais do livro são introduzidos pela palavra \"Ouvi\" (Mq 1:2; 3:1; 6:1)."]
       }
     }
   },

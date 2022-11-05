@@ -410,7 +410,6 @@ a {
   .wbib-ch-item>label{ flex-basis: 33.33%; }
 }
 .wbib-list {
-  border-top: solid 5px #607d8b;
   border-bottom-left-radius: 4px;
   border-bottom-right-radius: 4px;
   background-color: #dfe5e8;
@@ -426,10 +425,8 @@ a {
 .wbib-item > label {
   display: block;
   width: 100%; /* Width for 1920p */
-  background-color: #becbd2;
   padding: 10px;
   font-size: 16px;
-  color: #435761;
   cursor: pointer;
   text-align: center;
 }
@@ -437,14 +434,7 @@ a {
   display: none;
   position: absolute;
 }
-.wbib-item .wbib-radio:hover ~ label {
-  background-color: #dfe5e8 !important;
-}
-.wbib-item .wbib-radio:checked ~ label {
-  color: #fff !important;
-  background-color: #607d8b !important;
-  position: relative;
-}
+
 .wbib-item .wbib-radio:checked ~ .wbib-list {
   display: block;
   width: 100%;
@@ -453,9 +443,6 @@ a {
   width: 0px;
 }
 .wbib-item-list {
-  background-color: #f5f7f8;
-  border-top: solid 1px #becbd2;
-  border-left: solid 10px #607d8b;
   padding-left: 30px;
 }
 .wbib-item-list:hover {
@@ -525,10 +512,10 @@ a {
   border-top-right-radius: 5px;
 }
 .wbib-verse:first-child>div.wbib-verse>nav.wbib-verse-thumb{
-  border-top-left-radius: 5px;
+  border-top-left-radius: 4px;
 }
 .wbib-verse:last-child>div.wbib-verse>nav.wbib-verse-thumb{
-  border-bottom-left-radius: 5px;
+  border-bottom-left-radius: 4px;
 }
 .wbib-verse:last-child{
   border-bottom-left-radius: 5px;
@@ -569,9 +556,11 @@ a {
 }
 .wbib-reff-txt>p{
   font-size: 13px;
-  color: #333333;
   padding: 0;
   margin: 0;
+}
+.wbib-reff-txt> p >span{
+  font-weight: 500;
 }
 /* MODAL Section */
 #main {
@@ -1225,7 +1214,7 @@ footer.wbib-fvendor {
   margin-top: 0px;
   padding: 0.01em 16px;
 }
-.wbib-theme-l5 > .wbib-container {
+.wbib-main-panel > .wbib-container {
   margin-top: 50px; /* Changed */
   padding-top: 30px;
   height: fit-content;
@@ -1558,7 +1547,7 @@ footer.wbib-fvendor {
 }
 .wbib-button:hover {
   color: #000 !important;
-  background-color: #ccc !important;
+  opacity: 0.6 !important;
 }
 .wbib-transparent,
 .wbib-hover-none:hover {
@@ -1967,24 +1956,40 @@ footer.wbib-fvendor {
   border-color: #e7ffff !important;
 }
 
-/* Theme Section */
-.wbib-theme-l5 {
-  color: #000 !important;
-  background-color: #f5f7f8 !important;
-}
-.wbib-theme-l4 {
-  color: #000 !important;
-  background-color: #dfe5e8 !important;
-}
-.wbib-theme-l3 {
-  color: #000 !important;
+/* Theme Section 
+.wbib-item > .wbib-theme-l1{
+  color: #435761 !important;
   background-color: #becbd2 !important;
 }
-.wbib-theme-l2 {
-  color: #000 !important;
-  background-color: #9eb1bb !important;
+.wbib-radio:hover ~ .wbib-theme-l1 {
+  background-color: #dfe5e8 !important;
+}
+.wbib-radio:checked ~ .wbib-theme-l1 {
+  color: #fff !important;
+  background-color: #607d8b !important;
+  position: relative;
 }
 .wbib-theme-l1 {
+  color: #101010 !important;
+  background-color: #f3f6f7 !important;
+}
+.wbib-theme-l2 {
+  color: #101010 !important;
+  background-color: #e4eaec !important;
+}
+.wbib-theme-l3 {
+  color: #101010 !important;
+  background-color: #dfe5e8 !important;
+}
+.wbib-theme-l4 {
+  color: #101010 !important;
+  background-color: #becbd2 !important;
+}
+.wbib-theme-l5 {
+  color: #101010 !important;
+  background-color: #9eb1bb !important;
+}
+.wbib-theme-l6 {
   color: #fff !important;
   background-color: #7d97a5 !important;
 }
@@ -2008,9 +2013,34 @@ footer.wbib-fvendor {
   color: #fff !important;
   background-color: #303e45 !important;
 }
+.wbib-theme-d6 {
+  color: #fff !important;
+  background-color: #1e262b !important;
+}
 
+.wbib-theme-txt-0{
+  color: #000000 !important;
+}
+.wbib-theme-txt-2{
+  color: #222222 !important;
+}
+.wbib-theme-txt-3{
+  color: #333333 !important;
+}
+.wbib-theme-txt-4{
+  color: #444444 !important;
+}
+.wbib-theme-txt-5{
+  color: #555555 !important;
+}
+.wbib-theme-txt-6{
+  color: #666666 !important;
+}
+.wbib-theme-txt-7{
+  color: #777777 !important;
+}
 .wbib-theme-light {
-  color: #000 !important;
+  color: #282820 !important;
   background-color: #f5f7f8 !important;
 }
 .wbib-theme-dark {
@@ -2043,3 +2073,4 @@ footer.wbib-fvendor {
 .wbib-hover-border-theme:hover {
   border-color: #607d8b !important;
 }
+*/

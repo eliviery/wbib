@@ -2,9 +2,6 @@ function Metadata(){
 	return {
 	"books":["gn","ex","lv","nm","dt","js","jz","rt","1sm","2sm","1rs","2rs","1cr","2cr","ed","ne","et","job","sl","pv","ec","ct","is","jr","lm","ez","dn","os","jl","am","ob","jn","mq","na","hc","sf","ag","zc","ml","mt","mc","lc","jo","at","rm","1co","2co","gl","ef","fp","cl","1ts","2ts","1tm","2tm","tt","fm","hb","tg","1pe","2pe","1jo","2jo","3jo","jd","ap"],
 	"gn": {
-		"date":"1450-1410 a.C.",
-		"brief":"A palavra gênesis vem, via latim, do título grego do livro. No hebraico, o livro recebeu esse nome por causa de sua primeira palavra, que significa “no princípio”. O termo gênesis significa “origem” e, portanto, é um título apropriado para um livro que revela a origem de toda a história humana.",
-		"auth":"Moisés",
 		"name": "Gênesis",
 		"words": 176682,
 		"chapters": 50,
@@ -42,9 +39,6 @@ function Metadata(){
 		]
 	},
 	"ex": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Êxodo",
 		"words": 147694,
 		"chapters": 40,
@@ -79,9 +73,6 @@ function Metadata(){
 		]
 	},
 	"lv": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Levítico",
 		"words": 108428,
 		"chapters": 27,
@@ -115,9 +106,6 @@ function Metadata(){
 		]
 	},
 	"nm": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Números",
 		"words": 151817,
 		"chapters": 36,
@@ -157,9 +145,6 @@ function Metadata(){
 		]
 	},
 	"dt": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Deuteronômio",
 		"words": 127529,
 		"chapters": 34,
@@ -190,9 +175,6 @@ function Metadata(){
 		]
 	},
 	"js": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Josué",
 		"words": 87048,
 		"chapters": 24,
@@ -223,9 +205,6 @@ function Metadata(){
 		]
 	},
 	"jz": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Juízes",
 		"words": 86963,
 		"chapters": 21,
@@ -252,9 +231,6 @@ function Metadata(){
 		]
 	},
 	"rt": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Rute",
 		"words": 11716,
 		"chapters": 4,
@@ -270,9 +246,6 @@ function Metadata(){
 		]
 	},
 	"1sm": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "1 Samuel",
 		"words": 114666,
 		"chapters": 31,
@@ -306,9 +279,6 @@ function Metadata(){
 		]
 	},
 	"2sm": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "2 Samuel",
 		"words": 93774,
 		"chapters": 24,
@@ -338,9 +308,6 @@ function Metadata(){
 		]
 	},
 	"1rs": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "1 Reis",
 		"words": 111797,
 		"chapters": 22,
@@ -367,9 +334,6 @@ function Metadata(){
 		]
 	},
 	"2rs": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "2 Reis",
 		"words": 106609,
 		"chapters": 25,
@@ -396,9 +360,6 @@ function Metadata(){
 		]
 	},
 	"1cr": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "1 Crônicas",
 		"words": 98489,
 		"chapters": 29,
@@ -431,9 +392,6 @@ function Metadata(){
 		]
 	},
 	"2cr": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "2 Crônicas",
 		"words": 124753,
 		"chapters": 36,
@@ -468,9 +426,6 @@ function Metadata(){
 		]
 	},
 	"ed": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Esdras",
 		"words": 36669,
 		"chapters": 10,
@@ -493,9 +448,6 @@ function Metadata(){
 		]
 	},
 	"ne": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Neemias",
 		"words": 54082,
 		"chapters": 13,
@@ -520,9 +472,6 @@ function Metadata(){
 		]
 	},
 	"et": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Ester",
 		"words": 27437,
 		"chapters": 10,
@@ -543,9 +492,6 @@ function Metadata(){
 		]
 	},
 	"job": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Jó",
 		"words": 86943,
 		"chapters": 42,
@@ -581,9 +527,6 @@ function Metadata(){
 		]
 	},
 	"sl": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Salmos",
 		"words": 204627,
 		"chapters": 150,
@@ -633,9 +576,6 @@ function Metadata(){
 		]
 	},
 	"pv": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Provérbios",
 		"words": 73777,
 		"chapters": 31,
@@ -663,9 +603,6 @@ function Metadata(){
 		]
 	},
 	"ec": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Eclesiastes",
 		"words": 26142,
 		"chapters": 12,
@@ -688,9 +625,6 @@ function Metadata(){
 		]
 	},
 	"ct": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Cânticos",
 		"words": 13672,
 		"chapters": 8,
@@ -707,9 +641,6 @@ function Metadata(){
 		]
 	},
 	"is": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Isaías",
 		"words": 174089,
 		"chapters": 66,
@@ -751,9 +682,6 @@ function Metadata(){
 		]
 	},
 	"jr": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Jeremias",
 		"words": 200139,
 		"chapters": 52,
@@ -796,9 +724,6 @@ function Metadata(){
 		]
 	},
 	"lm": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Lamentações de Jeremias",
 		"words": 16494,
 		"chapters": 5,
@@ -813,9 +738,6 @@ function Metadata(){
 		]
 	},
 	"ez": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Ezequiel",
 		"words": 179225,
 		"chapters": 48,
@@ -853,9 +775,6 @@ function Metadata(){
 		]
 	},
 	"dn": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Daniel",
 		"words": 55102,
 		"chapters": 12,
@@ -877,9 +796,6 @@ function Metadata(){
 		]
 	},
 	"os": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Oséias",
 		"words": 24485,
 		"chapters": 14,
@@ -902,9 +818,6 @@ function Metadata(){
 		]
 	},
 	"jl": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Joel",
 		"words": 9394,
 		"chapters": 3,
@@ -920,9 +833,6 @@ function Metadata(){
 		]
 	},
 	"am": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Amós",
 		"words": 19264,
 		"chapters": 9,
@@ -941,9 +851,6 @@ function Metadata(){
 		]
 	},
 	"ob": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Obadias",
 		"words": 2926,
 		"chapters": 1,
@@ -957,9 +864,6 @@ function Metadata(){
 		]
 	},
 	"jn": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Jonas",
 		"words": 5997,
 		"chapters": 4,
@@ -975,9 +879,6 @@ function Metadata(){
 		]
 	},
 	"mq": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Miquéias",
 		"words": 14545,
 		"chapters": 7,
@@ -995,9 +896,6 @@ function Metadata(){
 		]
 	},
 	"na": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Naum",
 		"words": 6093,
 		"chapters": 3,
@@ -1013,9 +911,6 @@ function Metadata(){
 		]
 	},
 	"hc": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Habacuque",
 		"words": 7121,
 		"chapters": 3,
@@ -1030,9 +925,6 @@ function Metadata(){
 		]
 	},
 	"sf": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Sofonias",
 		"words": 7606,
 		"chapters": 3,
@@ -1048,9 +940,6 @@ function Metadata(){
 		]
 	},
 	"ag": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Ageu",
 		"words": 5199,
 		"chapters": 2,
@@ -1065,9 +954,6 @@ function Metadata(){
 		]
 	},
 	"zc": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Zacarias",
 		"words": 28061,
 		"chapters": 14,
@@ -1090,9 +976,6 @@ function Metadata(){
 		]
 	},
 	"ml": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Malaquias",
 		"words": 8724,
 		"chapters": 4,
@@ -1108,9 +991,6 @@ function Metadata(){
 		]
 	},
 	"mt": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Mateus",
 		"words": 111253,
 		"chapters": 28,
@@ -1144,9 +1024,6 @@ function Metadata(){
 		]
 	},
 	"mc": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Marcos",
 		"words": 70821,
 		"chapters": 16,
@@ -1174,9 +1051,6 @@ function Metadata(){
 		]
 	},
 	"lc": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Lucas",
 		"words": 119649,
 		"chapters": 24,
@@ -1210,9 +1084,6 @@ function Metadata(){
 		]
 	},
 	"jo": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "João",
 		"words": 89465,
 		"chapters": 21,
@@ -1243,9 +1114,6 @@ function Metadata(){
 		]
 	},
 	"at": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Atos",
 		"words": 119719,
 		"chapters": 28,
@@ -1279,9 +1147,6 @@ function Metadata(){
 		]
 	},
 	"rm": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Romanos",
 		"words": 48970,
 		"chapters": 16,
@@ -1305,9 +1170,6 @@ function Metadata(){
 		]
 	},
 	"1co": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "1 Coríntios",
 		"words": 48408,
 		"chapters": 16,
@@ -1332,9 +1194,6 @@ function Metadata(){
 		]
 	},
 	"2co": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "2 Coríntios",
 		"words": 32599,
 		"chapters": 13,
@@ -1355,9 +1214,6 @@ function Metadata(){
 		]
 	},
 	"gl": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Gálatas",
 		"words": 16169,
 		"chapters": 6,
@@ -1376,9 +1232,6 @@ function Metadata(){
 		]
 	},
 	"ef": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Efésios",
 		"words": 15632,
 		"chapters": 6,
@@ -1397,9 +1250,6 @@ function Metadata(){
 		]
 	},
 	"fp": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Filipenses",
 		"words": 11589,
 		"chapters": 4,
@@ -1415,9 +1265,6 @@ function Metadata(){
 		]
 	},
 	"cl": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Colossenses",
 		"words": 10412,
 		"chapters": 4,
@@ -1434,9 +1281,6 @@ function Metadata(){
 		]
 	},
 	"1ts": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "1 Tessalonicenses",
 		"words": 9839,
 		"chapters": 5,
@@ -1454,9 +1298,6 @@ function Metadata(){
 		]
 	},
 	"2ts": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "2 Tessalonicenses",
 		"words": 5187,
 		"chapters": 3,
@@ -1472,9 +1313,6 @@ function Metadata(){
 		]
 	},
 	"1tm": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "1 Timóteo",
 		"words": 12502,
 		"chapters": 6,
@@ -1492,9 +1330,6 @@ function Metadata(){
 		]
 	},
 	"2tm": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "2 Timóteo",
 		"words": 8746,
 		"chapters": 4,
@@ -1511,9 +1346,6 @@ function Metadata(){
 		]
 	},
 	"tt": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Tito",
 		"words": 5272,
 		"chapters": 3,
@@ -1528,9 +1360,6 @@ function Metadata(){
 		]
 	},
 	"fm": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Filemom",
 		"words": 2262,
 		"chapters": 1,
@@ -1544,9 +1373,6 @@ function Metadata(){
 		]
 	},
 	"hb": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Hebreus",
 		"words": 36280,
 		"chapters": 13,
@@ -1570,9 +1396,6 @@ function Metadata(){
 		]
 	},
 	"tg": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Tiago",
 		"words": 11657,
 		"chapters": 5,
@@ -1590,9 +1413,6 @@ function Metadata(){
 		]
 	},
 	"1pe": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "1 Pedro",
 		"words": 12909,
 		"chapters": 5,
@@ -1609,9 +1429,6 @@ function Metadata(){
 		]
 	},
 	"2pe": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "2 Pedro",
 		"words": 8355,
 		"chapters": 3,
@@ -1627,9 +1444,6 @@ function Metadata(){
 		]
 	},
 	"1jo": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "1 João",
 		"words": 11643,
 		"chapters": 5,
@@ -1646,9 +1460,6 @@ function Metadata(){
 		]
 	},
 	"2jo": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "2 João",
 		"words": 1501,
 		"chapters": 1,
@@ -1662,9 +1473,6 @@ function Metadata(){
 		]
 	},
 	"3jo": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "3 João",
 		"words": 1545,
 		"chapters": 1,
@@ -1678,9 +1486,6 @@ function Metadata(){
 		]
 	},
 	"jd": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Judas",
 		"words": 3553,
 		"chapters": 1,
@@ -1694,9 +1499,6 @@ function Metadata(){
 		]
 	},
 	"ap": {
-		"date":"",
-		"brief":"",
-		"auth":"",
 		"name": "Apocalipse",
 		"words": 54585,
 		"chapters": 22,

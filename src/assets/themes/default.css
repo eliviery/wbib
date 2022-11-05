@@ -1,0 +1,97 @@
+/** Theme Section
+ *
+ */
+
+
+.wbib-std-txt-0{
+  color: #101010 !important;
+}
+.wbib-std-txt-2{
+  color: #222222 !important;
+}
+.wbib-std-txt-3{
+  color: #333333 !important;
+}
+.wbib-std-txt-4{
+  color: #444444 !important;
+}
+.wbib-std-txt-5{
+  color: #555555 !important;
+}
+.wbib-std-txt-6{
+  color: #666666 !important;
+}
+.wbib-std-txt-7{
+  color: #777777 !important;
+}
+
+.wbib-item > .wbib-std-hd0{
+  color: #4D636F !important;
+  background-color: #becbd2 !important;
+}
+.wbib-radio:hover ~ .wbib-std-hd0 {
+  background-color: #DFE5E8 !important;
+}
+.wbib-radio:checked ~ .wbib-std-hd0 {
+  color: #fff !important;
+  background-color: #4D636F !important;
+  position: relative;
+}
+
+.wbib-std-def {
+  color: #101010;
+  background-color: #FFFFFF;
+}
+
+.wbib-std-hd0 {
+  color: #DFE5E8 !important;
+  background-color: #3A4B53 !important;
+}
+.wbib-std-hd1 {
+  color: #DFE5E8 !important;
+  background-color:#4D636F !important;
+}
+.wbib-std-hd2 {
+  color: #FFFFFF;
+  background-color: #7D97A5;
+}
+.wbib-std-hd3 {
+  color: #FFFFFF !important;
+  background-color: #9EB1BB !important;
+}
+
+.wbib-std-bd0 {
+  color: #101010 !important;
+  background-color: #f3f6f7 !important;
+}
+.wbib-std-bd1 {
+  color: #101010 !important;
+  background-color: #e4eaec !important;
+}
+.wbib-std-bd2 {
+  color: #101010 !important;
+  background-color: #dfe5e8 !important;
+}
+.wbib-std-bd3 {
+  color: #101010 !important;
+  background-color: #becbd2 !important;
+}
+
+.wbib-std-borded{
+  background-color: #f5f7f8;
+  border-top: solid 1px #becbd2;
+  border-left: solid 10px #4D636F;
+}
+.wbib-std-borded:first-child{
+  border-top: solid 6px #4D636F;
+}
+.wbib-hover-std:hover {
+  color: #fff !important;
+  background-color: #4D636F !important;
+}
+.wbib-hover-text-std:hover {
+  color: #4D636F !important;
+}
+.wbib-hover-border-std:hover {
+  border-color: #4D636F !important;
+}

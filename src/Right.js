@@ -1,41 +1,49 @@
 import React from 'react';
 
-function Right({reffers}) {
-  const pn = 'wbib';
-  //console.log(reffers);
-/*
-  for (let item in reffers) {
-			c1_list.push(
-				<li key={item} id={`wbib-item-${item + 1}`} className="wbib-item">
-					<input
-						type="radio"
-						id={`${book}${item + 1}`}
-						className="wbib-radio"
-						name="reffers" />
-					<label
-						htmlFor={`${book}${item + 1}`}
-						className={`wbib-label fa`}
-						title={reffers[item]}>
-						&nbsp;{mf[item][1].toUpperCase() }
-					</label>
-					<div id={mf[item][1].toLowerCase()} className="wbib-list">
-						{booklist[mf[item][1].toLowerCase()]}
-					</div>
-				</li>
+function Right({ theme, reffers }) {
+	const pn = 'wbib';
+
+	const themes = [];
+
+	for (let x of ['hd', 'bd'])
+		for (let y = 0; y < 4; y++)
+			themes.push(
+				<div key={`${x}-${y}`} className={`${pn}-${theme}-${x}${y}`}>
+					<p>{`${pn}-${theme}-${x}${y}`}</p>
+				</div>
 			);
-	}
-*/
-  return (
-			<div className='wbib-card wbib-round'>
+
+	const cardPop = (
+		<div className={`${pn}-container ${pn}-display-container ${pn}-round ${pn}-${theme}-bd2 ${pn}-border ${pn}-${theme}-border ${pn}-margin-bottom ${pn}-hide-small`}>
+			<span className={`${pn}-button ${pn}-${theme}-bd2 ${pn}-display-topright`}>
+				<i className="fa fa-remove">
+				</i>
+			</span>
+			<p>
+				<strong id='log-title'>
+					CLASSES DO TEMA ATUAL
+				</strong>
+			</p>
+			<p id='log'>Nomes das classes de cores dos elementos representados visualmente.</p>
+			{themes}
+		</div>
+	);
+	
+	return (
+		<>
+			<div className= {`${pn}-card ${pn}-round`}>
 				<div className={`${pn}-white`}>
-					<nav className="wbib-button wbib-block wbib-theme-l1 wbib-left-align">
-            <p>
-              Update Refferences POST mode
-            </p>
-          </nav>
+					<nav className={`${pn}-button ${pn}-block ${pn}-${theme}-hd2 ${pn}-left-align`}>
+						<p>
+							Update Refferences POST mode
+						</p>
+					</nav>
 				</div>
 			</div>
-		);
+			<hr className="clear" />
+			{cardPop}
+		</>
+	);
 }
 
 export default Right;

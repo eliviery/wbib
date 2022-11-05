@@ -3,7 +3,6 @@ import api from './services/api';
 import Metadata from './Metadata';
 const metadata = Metadata();
 
-const pn = 'wbib'; // Project Name
 const elem = React.createElement;
 
 class Box extends React.Component { // Default box class <div>
@@ -23,8 +22,9 @@ const fill = (list) => {
  * @param {function} setBook Sets the book value
  * @returns Center component
  */
-function Center({ book, vsdata, localbib, setLocal, setVS, setRef }) {
+function Center({ book, theme, vsdata, localbib, setLocal, setVS, setRef }) {
 	const info = require('./books_metadata.json');
+	const pn = 'wbib'; // Project Name
 
 	//if (`${book}1` in localbib) setVS(localbib[`${book}1`]);
 	
@@ -82,7 +82,7 @@ function Center({ book, vsdata, localbib, setLocal, setVS, setRef }) {
 							{
 								key: `lb_ch${i}`,
 								htmlFor: `ch${i}`,
-								className: `${pn}-label`,
+								className: `${pn}-label ${pn}-${theme}-hd0`,
 								title: `${metadata[abb].name} ${i}`,
 								style: { width: (TAM <= 10) ? `${100/TAM}%` : '100%' } // Setting chapter box width
 							},
@@ -94,8 +94,8 @@ function Center({ book, vsdata, localbib, setLocal, setVS, setRef }) {
 
 		return (
 			<>
-				<small className='wbib-left wbib-opacity'>Capítulos</small>
-				<ul className={`${pn}-chapter-box ${pn}-nav-content`}>
+				<small className= {`${pn}-left ${pn}-opacity`}>Capítulos</small>
+				<ul className = {`${pn}-chapter-box ${pn}-nav-content`}>
 					{chLI}
 				</ul>
 			</>
@@ -132,25 +132,25 @@ function Center({ book, vsdata, localbib, setLocal, setVS, setRef }) {
 					if (idy !== 'book_name') {
 						const ref_txt = current[idy];
 						let targ = `${tCase(idx)} ${idy}`; // < idy > guarda capítulo e versículo numa string (se for extrair, tratar com RegEx)
-						let classColor = ["wbib-white", "wbib-theme-l5"][parseInt(aux.length) & 1];
+						let classColor = `${pn}-${theme}-${[`bd0`,`def`][parseInt(aux.length) & 1]}`;
 						aux.push(
 							<div
 								key={`${targ}`}
 								className={`${pn}-reff-txt ${classColor}`}>
-								<p>
-									<span className='wbib-theme-l4'>{targ}</span>&nbsp;{ref_txt}</p>
+								<p className={`${pn}-${theme}-txt-1`}>
+									<span id={`reff-thumb-${idx}_${idy.replace(':','_')}`} className={`${pn}-${theme}-bd3`}>{targ}</span>&nbsp;{ref_txt}</p>
 							</div>
 						);
 					}
 				}
 			}
-			rf = <div key={`vs-${n}`} id={`vs${n}`} className="wbib-reff-content">{aux}</div>
+			rf = <div key={`vs-${n}`} id={`vs${n}`} className= {`${pn}-reff-content`}>{aux}</div>
 		}
 
 		vslist.push(
 			<li
 				key={k}
-				className={`${pn}-verse ${pn}-theme-${["l4", "l3"][n & 1]}`}
+				className={`${pn}-verse ${pn}-${theme}-${["bd3", "bd2"][n & 1]}`}
 			>
 				<div id={`${k}`} className={`${pn}-verse`}>
 					{
@@ -158,7 +158,7 @@ function Center({ book, vsdata, localbib, setLocal, setVS, setRef }) {
 							{
 								key: k,
 								id: `vs${n}`,
-								className: `${pn}-verse-thumb ${hasref ? "wbib-theme-l5" : ""}`,
+								className: `${pn}-verse-thumb ${hasref ? `${pn}-${theme}-def` : ""}`,
 								style: { cursor: hasref ? "pointer" : "auto" },
 								onClick: (e) => {
 									var show = document.querySelector(`div#${`vs${n}`}`).style.display;
@@ -171,7 +171,7 @@ function Center({ book, vsdata, localbib, setLocal, setVS, setRef }) {
 										.style.display = (show === "" || show === "none") ? "inline-block" : "none";
 								}
 							},
-							<p className='wbib-verse-num'>
+							<p className= {`${pn}-verse-num`}>
 								{hasref ? <strong>{n}</strong> : n}
 							</p>
 						)
@@ -194,12 +194,12 @@ function Center({ book, vsdata, localbib, setLocal, setVS, setRef }) {
 	}
 
 	const panel = (
-		<div className="wbib-container wbib-card wbib-white wbib-round wbib-margin wbib-theme-l5" >
+		<div className={`${pn}-container ${pn}-card ${pn}-round ${pn}-margin ${pn}-${theme}-bd0`} >
 			<br />
 			<img
 				src={require("./assets/img/parchment.png")}
 				alt="Book Avatar"
-				className="wbib-left wbib-margin-right"
+				className= {`${pn}-left ${pn}-margin-right`}
 				style={{ width: "60px" }} />
 			<span
 				className={`${pn}-info ${pn}-right ${pn}-opacity fa-circle-info fa`}
@@ -222,9 +222,9 @@ function Center({ book, vsdata, localbib, setLocal, setVS, setRef }) {
 					{`${vsdata[0]['book_name']} ${vsdata[0]['ch_vs'][0]}`}
 				</strong>
 			</h4>
-			<small className="wbib-reffs">{info[book]['date']}</small>
-			<hr className="wbib-clear" />
-			<div className="wbib-verses wbib-theme-l5">
+			<small className= {`${pn}-reffs`}>{info[book]['date']}</small>
+			<hr className= {`${pn}-clear`} />
+			<div className={`${pn}-verses`}>
 				{vslist}
 			</div>
 		</div>
