@@ -89,7 +89,7 @@ function Modal({ book, theme }) {
 				>&times;</span>
 				<article key={`data_X`}>
 					<div className={`${pn}-article-meta`}>
-						<h3>Sobre {info[book].name}</h3>
+						<h3>{info[book].regard} {info[book].name}</h3>
 					</div>
 					<div className={`${pn}-article-meta`}>
 						{[

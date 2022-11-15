@@ -137,7 +137,7 @@ function Center({ book, theme, vsdata, localbib, setLocal, setVS, setRef }) {
 							<div
 								key={`${targ}`}
 								className={`${pn}-reff-txt ${classColor}`}>
-								<p className={`${pn}-${theme}-txt-1`}>
+								<p>
 									<span id={`reff-thumb-${idx}_${idy.replace(':','_')}`} className={`${pn}-${theme}-bd3`}>{targ}</span>&nbsp;{ref_txt}</p>
 							</div>
 						);
