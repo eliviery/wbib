@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 import api from './services/api';
 import Metadata from './Metadata';
 
-function Left({ book, theme, localbib, setLocal, setBook, setVS }) {
+function Left({ book, setBook, localbib, setLocal, setVS }) {
 
 	const metadata = Metadata();
 	const mf = {
@@ -16,6 +16,7 @@ function Left({ book, theme, localbib, setLocal, setBook, setVS }) {
 	 * @param {number} b 
 	 * @returns Array containing all chapter verses and its data
 	*/
+
 	async function getVS(a, b) {
 
 		if (`${a}${b}` in localbib){
@@ -33,16 +34,24 @@ function Left({ book, theme, localbib, setLocal, setBook, setVS }) {
 	const c1_list = [];
 	const indexes = metadata.books;
 	const booklist = { "vt": [], "nt": [], "info": [] };
+	const info = require('./books_metadata.json');
 
 	for (let i = 0; i < indexes.length; i++) { // Fill Book names list
 		const draft = (
 			<nav
 				key={indexes[i]}
 				id={indexes[i]}
-				className={`${pn}-item-list ${pn}-${theme}-item ${pn}-${theme}-borded`}
+				className={`${pn}-item-list ${pn}-borded`}
 				onClick={(e) => {
 						setBook(`${indexes[i]}`);
 						getVS(indexes[i], 1);
+						
+						let hex = metadata[indexes[i]]["colors"]
+						for(let id in hex){
+							for(let c in hex[id]){
+								document.documentElement.style.setProperty(`--${id}${c}`, hex[id][c]);
+							}
+						}
 					}
 				}
 			>
@@ -74,11 +83,11 @@ function Left({ book, theme, localbib, setLocal, setBook, setVS }) {
 						defaultChecked={(mf[item][1] === "vt")} />
 					<label
 						htmlFor={mf[item][1].toLowerCase()}
-						className={`${mf[item][0]} ${pn}-label fa ${pn}-${theme}-hd0`}
+						className={`${mf[item][0]} ${pn}-label fa ${pn}-hd0`}
 						title={mf[item][2]}>
 						&nbsp;{mf[item][1].toUpperCase() /* Título da aba [vt, nt, info] em maiúsculo */}
 					</label>
-					<div id={mf[item][1].toLowerCase()} className={`${pn}-list ${pn}-${theme}-box`}>
+					<div id={mf[item][1].toLowerCase()} className={`${pn}-list ${pn}-box`}>
 						{booklist[mf[item][1].toLowerCase()]}
 					</div>
 				</li>
@@ -87,7 +96,7 @@ function Left({ book, theme, localbib, setLocal, setBook, setVS }) {
 	}
 
 	const card1 = (
-		<div className={`${pn}-card ${pn}-round ${pn}-${theme}-bd0`}>
+		<div className={`${pn}-card ${pn}-round ${pn}-bd0`}>
 			<div className = {`${pn}-container ${pn}-padding-16 ${pn}-left-col`}>
 				<h3 id="title" className = {`${pn}-center`}>
 					<strong>{mf.title}</strong>
@@ -102,6 +111,7 @@ function Left({ book, theme, localbib, setLocal, setBook, setVS }) {
 				<p className = {`${pn}-center`}>
 					<i className={`fa fa-${(metadata.books.indexOf(book) < 39) ? "star-of-david":"cross"} fa-fw`}>
 					</i>
+					<small className={`${pn}-reffs`}>{info[book]['date']}</small>
 				</p>
 				<hr />
 

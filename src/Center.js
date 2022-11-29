@@ -22,17 +22,16 @@ const fill = (list) => {
  * @param {function} setBook Sets the book value
  * @returns Center component
  */
-function Center({ book, theme, vsdata, localbib, setLocal, setVS, setRef }) {
+function Center({ book, vsdata, localbib, setLocal, setVS, setRef }) {
 	const info = require('./books_metadata.json');
 	const pn = 'wbib'; // Project Name
 
-	//if (`${book}1` in localbib) setVS(localbib[`${book}1`]);
-	
 	/**
 	 * @param {string} a 
 	 * @param {number} b 
 	 * @returns Array containing all chapter verses and its data
 	*/
+	
 	async function getChapter(a, b) {
 		let key = `${a}${b}`;
 		let rflist = [];
@@ -47,7 +46,7 @@ function Center({ book, theme, vsdata, localbib, setLocal, setVS, setRef }) {
 		setRef(rflist);
 	}
 
-	useEffect(()=>{ getChapter(book, 1) },[]);
+	useEffect(() => {getChapter(book, 1)}, []);
 
 	const elemCh = (abb, def) => {
 		const chLI = [];
@@ -57,7 +56,7 @@ function Center({ book, theme, vsdata, localbib, setLocal, setVS, setRef }) {
 				<li
 					key={`box_ch${i}`}
 					className={`${pn}-item ${pn}-ch-item`}
-					style={{width: (TAM <= 10) ? `${100/TAM}%` : '10%'}}
+					style={{ width: (TAM <= 10) ? `${100 / TAM}%` : '10%' }}
 				>
 					{[
 						elem('input',
@@ -82,9 +81,9 @@ function Center({ book, theme, vsdata, localbib, setLocal, setVS, setRef }) {
 							{
 								key: `lb_ch${i}`,
 								htmlFor: `ch${i}`,
-								className: `${pn}-label ${pn}-${theme}-hd0`,
+								className: `${pn}-label ${pn}-hd0`,
 								title: `${metadata[abb].name} ${i}`,
-								style: { width: (TAM <= 10) ? `${100/TAM}%` : '100%' } // Setting chapter box width
+								style: { width: (TAM <= 10) ? `${100 / TAM}%` : '100%' } // Setting chapter box width
 							},
 							<span className={`${pn}-chapter-num`}>{i}</span>)
 					]}
@@ -94,8 +93,8 @@ function Center({ book, theme, vsdata, localbib, setLocal, setVS, setRef }) {
 
 		return (
 			<>
-				<small className= {`${pn}-left ${pn}-opacity`}>Capítulos</small>
-				<ul className = {`${pn}-chapter-box ${pn}-nav-content`}>
+				<small className={`${pn}-left ${pn}-opacity`}>Capítulos</small>
+				<ul className={`${pn}-chapter-box ${pn}-nav-content`}>
 					{chLI}
 				</ul>
 			</>
@@ -132,25 +131,25 @@ function Center({ book, theme, vsdata, localbib, setLocal, setVS, setRef }) {
 					if (idy !== 'book_name') {
 						const ref_txt = current[idy];
 						let targ = `${tCase(idx)} ${idy}`; // < idy > guarda capítulo e versículo numa string (se for extrair, tratar com RegEx)
-						let classColor = `${pn}-${theme}-${[`bd0`,`def`][parseInt(aux.length) & 1]}`;
+						let classColor = `${pn}-${[`bd0`, `def`][parseInt(aux.length) & 1]}`;
 						aux.push(
 							<div
 								key={`${targ}`}
 								className={`${pn}-reff-txt ${classColor}`}>
 								<p>
-									<span id={`reff-thumb-${idx}_${idy.replace(':','_')}`} className={`${pn}-${theme}-bd3`}>{targ}</span>&nbsp;{ref_txt}</p>
+									<span id={`reff-thumb-${idx}_${idy.replace(':', '_')}`} className={`${pn}-bd3`}>{targ}</span>&nbsp;{ref_txt}</p>
 							</div>
 						);
 					}
 				}
 			}
-			rf = <div key={`vs-${n}`} id={`vs${n}`} className= {`${pn}-reff-content`}>{aux}</div>
+			rf = <div key={`vs-${n}`} id={`vs${n}`} className={`${pn}-reff-content`}>{aux}</div>
 		}
 
 		vslist.push(
 			<li
 				key={k}
-				className={`${pn}-verse ${pn}-${theme}-${["bd3", "bd2"][n & 1]}`}
+				className={`${pn}-verse ${pn}-${["bd3", "bd2"][n & 1]}`}
 			>
 				<div id={`${k}`} className={`${pn}-verse`}>
 					{
@@ -158,7 +157,7 @@ function Center({ book, theme, vsdata, localbib, setLocal, setVS, setRef }) {
 							{
 								key: k,
 								id: `vs${n}`,
-								className: `${pn}-verse-thumb ${hasref ? `${pn}-${theme}-def` : ""}`,
+								className: `${pn}-verse-thumb ${hasref ? `${pn}-def` : ""}`,
 								style: { cursor: hasref ? "pointer" : "auto" },
 								onClick: (e) => {
 									var show = document.querySelector(`div#${`vs${n}`}`).style.display;
@@ -167,11 +166,11 @@ function Center({ book, theme, vsdata, localbib, setLocal, setVS, setRef }) {
 										ch_vs: vs['ch_vs'],
 										value: vs['reffers']
 									});
-									document.querySelector(`div#${`vs${n}`}`)
+									document.querySelector(`div#vs${n}`)
 										.style.display = (show === "" || show === "none") ? "inline-block" : "none";
 								}
 							},
-							<p className= {`${pn}-verse-num`}>
+							<p className={`${pn}-verse-num`}>
 								{hasref ? <strong>{n}</strong> : n}
 							</p>
 						)
@@ -193,37 +192,79 @@ function Center({ book, theme, vsdata, localbib, setLocal, setVS, setRef }) {
 		);
 	}
 
+	const btnBundle = [
+		`${pn}-hd1`,
+		`${pn}-btn`,
+		`fa`
+	];
+	
 	const panel = (
-		<div className={`${pn}-container ${pn}-card ${pn}-round ${pn}-margin ${pn}-${theme}-bd0`} >
-			<br />
-			<img
-				src={require("./assets/img/parchment.png")}
-				alt="Book Avatar"
-				className= {`${pn}-left ${pn}-margin-right`}
-				style={{ width: "60px" }} />
-			<span
-				className={`${pn}-info ${pn}-right ${pn}-opacity fa-circle-info fa`}
-				title="Info"
-				onClick={
-					() => {
-						let modal = document.querySelector(`div#m-info`);
-						modal.className = `${pn}-modal-info ${pn}-modal-visually-hiden`;
-						setTimeout(function () {
-							document.querySelector(`div#main-panel`).classList.add(`${pn}-blurred`);
-							modal.className = `${pn}-modal-info`;
-						}, 100);
-						document.querySelector(`div#main-panel`).parentElement.className = `${pn}-modal-open`;
-					}
-				}
-			>
-			</span>
-			<h4 id="verse-data">
-				<strong>
-					{`${vsdata[0]['book_name']} ${vsdata[0]['ch_vs'][0]}`}
-				</strong>
-			</h4>
-			<small className= {`${pn}-reffs`}>{info[book]['date']}</small>
-			<hr className= {`${pn}-clear`} />
+		<div className={`${pn}-container ${pn}-card ${pn}-round ${pn}-margin ${pn}-bd0`} >
+			<div className={`${pn}-box-header`}>
+				<nav className={`${pn}-box-header-item`}>
+					<h4 id="verse-data">
+					<img
+						src={require("./assets/img/parchment.png")}
+						alt="Book Avatar"
+						className={`${pn}-left ${pn}-margin-right ${pn}-center-avatar `}
+						style={{ width: "60px" }} />
+						<strong>{`${vsdata[0]['book_name']} ${vsdata[0]['ch_vs'][0]}`}</strong>
+					</h4>
+
+					<span
+						className={`${pn}-info ${pn}-right ${pn}-opacity fa-circle-info fa`}
+						title="Info"
+						onClick={
+							() => {
+								let modal = document.querySelector(`div#m-info`);
+								modal.className = `${pn}-modal-info ${pn}-modal-visually-hiden`;
+								setTimeout(function () {
+									document.querySelector(`div#main-panel`).classList.add(`${pn}-blurred`);
+									modal.className = `${pn}-modal-info`;
+								}, 100);
+								document.querySelector(`div#main-panel`).parentElement.className = `${pn}-modal-open`;
+							}
+						}
+					>
+					</span>
+				</nav>
+
+				<nav className={`${pn}-box-header-item`}>
+					{[
+						elem('button',
+							{
+								key: `previous`,
+								id: `prev-ch`,
+								title:`${vsdata[0]['book_name']} ${vsdata[0]['ch_vs'][0] === 1 ? 1 : vsdata[0]['ch_vs'][0] - 1}`,
+								value: vsdata[0]['ch_vs'][0] === 1 ? 1 : vsdata[0]['ch_vs'][0] - 1,
+								className: btnBundle.concat([vsdata[0]['ch_vs'][0] === 1 ? `${pn}-disabled`:``, 'fa-angle-left']).join(' '),
+								onClick: (e) => {
+									if (`${book}${e.target.value}` in localbib) setVS(localbib[`${book}${e.target.value}`]);
+									else getChapter(book, e.target.value); // Call API
+
+									document.querySelector(`#ch${e.target.value}`).checked = true;
+								}
+							},
+							null),
+							elem('button',
+							{
+								key: `next`,
+								id: `next-ch`,
+								title:`${vsdata[0]['book_name']} ${vsdata[0]['ch_vs'][0] === metadata[book].chapters ? metadata[book].chapters : vsdata[0]['ch_vs'][0] + 1}`,
+								value: vsdata[0]['ch_vs'][0] === metadata[book].chapters ? metadata[book].chapters : vsdata[0]['ch_vs'][0] + 1,
+								className: btnBundle.concat([vsdata[0]['ch_vs'][0] === metadata[book].chapters ? `${pn}-disabled`:``, 'fa-angle-right']).join(' '),
+								onClick: (e) => {
+									if (`${book}${e.target.value}` in localbib) setVS(localbib[`${book}${e.target.value}`]);
+									else getChapter(book, e.target.value); // Call API
+
+									document.querySelector(`#ch${e.target.value}`).checked = true;
+								}
+							},
+							null)
+					]}
+				</nav>
+			</div>
+			
 			<div className={`${pn}-verses`}>
 				{vslist}
 			</div>

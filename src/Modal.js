@@ -2,7 +2,7 @@ import React from 'react';
 //import api from './services/api';
 const info = require('./books_metadata.json');
 
-function Modal({ book, theme }) {
+function Modal({ book }) {
 	const pn = 'wbib'; // Project Name
 	const elem = React.createElement; // HTML Element Creator
 	const mcls = [`${pn}-modal-info`, `${pn}-modal-hidden`, `${pn}-modal-visually-hiden`]; // Modal CSS Classes List
@@ -19,13 +19,13 @@ function Modal({ book, theme }) {
 		let table = [], hbf = [], prefix = `${pn}-modal`; // first row = Header, range rows = Body, last row = Footer
 		let tb_theme = {
 			"table":[`${prefix}-table`],
-			"thead":[`${prefix}-thead`,`${pn}-${theme}-hd1`],
-			"tbody":[`${prefix}-tbody`,`${pn}-${theme}-bd1`],
+			"thead":[`${prefix}-thead`,`${pn}-hd1`],
+			"tbody":[`${prefix}-tbody`,`${pn}-bd1`],
 			"tfoot":[`${prefix}-tfoot`]
 		};
 		tb.forEach((row, x) => {
 			hbf.push(
-				<tr key={`tr${x}`} className={`${x > 0 ? [``,`${pn}-${theme}-bd3`][x & 1] : ""}`}>
+				<tr key={`tr${x}`} className={`${x > 0 ? [``,`${pn}-bd3`][x & 1] : ""}`}>
 					{
 						row.map((e, y) => {
 							return (x === 0) ? <><th key={`tr-th${y}`}>{e}</th></> : <><td key={`tr-td${y}`}>{e}</td></>

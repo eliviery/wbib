@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Right({ theme, reffers }) {
+function Right({ reffers }) {
 	const pn = 'wbib';
 
 	const themes = [];
@@ -8,14 +8,14 @@ function Right({ theme, reffers }) {
 	for (let x of ['hd', 'bd'])
 		for (let y = 0; y < 4; y++)
 			themes.push(
-				<div key={`${x}-${y}`} className={`${pn}-${theme}-${x}${y}`}>
-					<p>{`${pn}-${theme}-${x}${y}`}</p>
+				<div key={`${x}-${y}`} className={`${pn}-${x}${y}`}>
+					<p>{`${pn}-${x}${y}`}</p>
 				</div>
 			);
 
 	const cardPop = (
-		<div className={`${pn}-container ${pn}-display-container ${pn}-round ${pn}-${theme}-bd2 ${pn}-border ${pn}-${theme}-border ${pn}-margin-bottom ${pn}-hide-small`}>
-			<span className={`${pn}-button ${pn}-${theme}-bd2 ${pn}-display-topright`}>
+		<div className={`${pn}-container ${pn}-display-container ${pn}-round ${pn}-bd2 ${pn}-border ${pn}-border ${pn}-margin-bottom ${pn}-hide-small`}>
+			<span className={`${pn}-button ${pn}-bd2 ${pn}-display-topright`}>
 				<i className="fa fa-remove">
 				</i>
 			</span>
@@ -33,7 +33,7 @@ function Right({ theme, reffers }) {
 		<>
 			<div className= {`${pn}-card ${pn}-round`}>
 				<div className={`${pn}-white`}>
-					<nav className={`${pn}-button ${pn}-block ${pn}-${theme}-hd2 ${pn}-left-align`}>
+					<nav className={`${pn}-button ${pn}-block ${pn}-hd2 ${pn}-left-align`}>
 						<p>
 							Update Refferences POST mode
 						</p>
